@@ -6,7 +6,7 @@ conçu comme un outil de veille intellectuelle sur l'État et l'administration f
 Voir `MODULE_A.md` (mission et posture du module), `PROGRAMME.md` (les 12 axes de
 recherche), `OBJECTIFS.md` (feuille de route, 13 capacités visées), `METHODE.md`
 (hiérarchie des sources, protocole de recherche, règles de fiabilité),
-`COMPETENCES.md` (compétences du concours IRA), `PLAN_ATTAQUE_2027.md` (plan d0027attaque thèmes IRA 2027), `VEILLE.md` (veille permanente :
+`COMPETENCES.md` (compétences du concours IRA), `PLAN_ATTAQUE_2027.md` (plan d’attaque thèmes IRA 2027), `VEILLE.md` (veille permanente :
 fréquences, rubriques, règles de sélection, format des actualités) et `PRINCIPES.md`
 (règles de production transversales). Le format obligatoire des
 fiches thématiques (14 sections) est défini dans `modeles/modele_fiche_thematique.md`.
