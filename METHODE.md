@@ -56,3 +56,39 @@ Essentielle pour identifier événements, tensions, controverses et évolutions 
 - Ne pas transformer une hypothèse en certitude.
 - Ne pas multiplier les sources sans les exploiter intellectuellement.
 - Chaque affirmation importante doit être accompagnée d'une source identifiable.
+
+## 4. Priorités de sources affinées pour la préparation IRA 2027
+
+### 4.1 Presse et médias spécialisés — trio prioritaire
+
+- **Acteurs publics** : fonction publique, réformes de l'État, management public, organisation administrative, transformation des administrations.
+- **La Gazette des communes** : décentralisation, collectivités territoriales, finances locales, services publics territoriaux.
+- **AEF info** : éducation, enseignement supérieur, emploi, formation, politiques sociales, RH publiques.
+- Compléments : Banque des Territoires (investissement territorial, logement, transition écologique), Localtis (politiques territoriales, relations État/collectivités), Contexte (décryptage des politiques publiques, négociations législatives, affaires européennes).
+
+Ces médias permettent de suivre des sujets peu visibles dans la presse généraliste mais pertinents pour un futur attaché d'administration. Ils complètent — ne remplacent jamais — les sources primaires.
+
+### 4.2 Sources européennes et internationales
+
+Euractiv (actualité des institutions européennes), Toute l'Europe (pédagogie des politiques européennes), Politico Europe (rapports de force et négociations), OCDE (comparaisons internationales, administration, finances), Eurostat (données comparatives). **Règle** : ne pas se contenter de rapporter Bruxelles — expliquer les conséquences concrètes des décisions européennes sur l'administration française.
+
+### 4.3 Socle documentaire prioritaire pour les cours
+
+**Priorité absolue** : Vie-publique.fr (institutions, politiques publiques, bibliothèque des rapports publics), Cour des comptes (résultats réels, défaillances, soutenabilité, efficacité des dépenses), INSEE (données démographiques, économiques, sociales, territoriales — référence pour éviter les chiffres approximatifs), Légifrance (textes en vigueur, versions consolidées, dates d'entrée en vigueur), France Stratégie / Haut-Commissariat à la stratégie et au plan (prospective, transformations de l'État, enjeux de long terme), CESE (cohésion sociale, démocratie participative, transition écologique, travail, jeunesse).
+
+**Administrations et organismes spécialisés** (alimentent les développements techniques) : DGAFP (fonction publique, statut, rémunérations, RH), direction du Budget (LOLF, dépenses, performance), DGCL (décentralisation, finances locales), DREES (santé, protection sociale, retraites, pauvreté), ministère de l'Éducation nationale, MESRE (enseignement supérieur, recherche), ministère de la Transition écologique, DITP (transformation, simplification, évaluation), CNIL (données, numérique, IA, libertés), ANCT (cohésion territoriale, ruralité, politique de la ville).
+
+**Institutions de contrôle et d'évaluation** (consulter systématiquement quand pertinent) : IGF, IGA, IGAS, inspection générale de l'éducation, du sport et de la recherche, Haut Conseil pour le climat, Autorité de la concurrence. Intérêt : elles évaluent résultats, coûts et insuffisances, au-delà des objectifs affichés.
+
+**Ressources universitaires et doctrinales** : Cairn.info, OpenEdition Journals, Persée, Cairn SHS, Études du Conseil d'État et rapports publics. Objectif : comprendre les débats intellectuels derrière les réformes (NPM, bureaucratie, État régulateur, gouvernance multiniveaux, rationalisation, légitimité de l'action publique).
+
+### 4.4 Répartition des sources par thème officiel IRA 2027
+
+| Thème officiel | Sources à privilégier |
+|---|---|
+| Cohésion sociale, développement durable, diversité des territoires | INSEE, DREES, ANCT, CESE, Haut Conseil pour le climat, Cour des comptes, France Stratégie, La Gazette des communes |
+| Finances publiques et intervention économique | Direction du Budget, Cour des comptes, INSEE, Banque de France, DGFiP, IGF, OCDE, Les Échos |
+| Transformation, numérique, simplification, efficience, évaluation | DGAFP, DINUM, DITP, Cour des comptes, CNIL, Conseil d'État, Acteurs publics, Contexte |
+| Système éducatif | DEPP, ministère de l'Éducation nationale, MESRE, IGÉSR, Cour des comptes, OCDE, AEF info |
+| Enjeux européens et internationaux | Commission européenne, Conseil de l'UE, Parlement européen, Eurostat, OCDE, Euractiv, Toute l'Europe |
+| Organisation territoriale de la France | DGCL, ANCT, Sénat, Assemblée nationale, Conseil d'État, Cour des comptes, La Gazette des communes, Localtis |
