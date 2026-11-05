@@ -21,6 +21,13 @@ La Vᵉ République naît de la crise du 13 mai 1958 et de la guerre d'Algérie.
 
 ### 2. La séparation des pouvoirs : une séparation souple et imbriquée
 
+```schema
+État français
+  Pouvoir exécutif (Président art. 5-18, Gouvernement art. 20-21)
+  Pouvoir législatif (Parlement art. 24)
+  Autorités de contrôle (Conseil constitutionnel, Conseil d'État, Cour des comptes)
+```
+
 La Constitution organise une séparation des pouvoirs « souple » (titre II pour le Président, titre III pour le Gouvernement, titre IV pour le Parlement), caractérisée par l'interdépendance : le Gouvernement participe à la procédure législative (art. 39, 44, 45, 47), le Parlement légifère dans un domaine limité (art. 34) et le Gouvernement dispose du pouvoir réglementaire (art. 37). Contrairement au régime présidentiel américain, il n'y a pas de séparation stricte : le Gouvernement émane du Président et de la majorité parlementaire, et le Président peut dissoudre l'Assemblée nationale (art. 12).
 
 ### 3. Le bloc de constitutionnalité
@@ -98,6 +105,10 @@ Les décisions du Conseil constitutionnel s'imposent aux pouvoirs publics et à 
 Le pouvoir réglementaire appartient au Premier ministre (art. 21) et au Président de la République pour les décrets délibérés en Conseil des ministres (art. 13). On distingue les décrets en Conseil des ministres (signés par le Président), les décrets simples (Premier ministre), les arrêtés ministériels et interministériels, et les circulaires (qui n'ont pas de valeur réglementaire propre mais interprètent les textes). La hiérarchie des actes administratifs reflète la hiérarchie des autorités : un arrêté ne peut contredire un décret, un décret ne peut contredire une loi.
 
 ### 2. La hiérarchie des normes
+
+```schema
+Constitution et bloc de constitutionnalité --> Traités internationaux (art. 55, primauté UE) --> Lois ordinaires et organiques (art. 34) --> Ordonnances (art. 38) --> Règlements : décrets et arrêtés (art. 37) --> Actes administratifs individuels
+```
 
 En droit français : Constitution (et bloc de constitutionnalité) > traités internationaux (art. 55 : autorité supérieure à celle des lois, sous réserve de réciprocité) > lois > ordonnances (avant ratification) > règlements (décrets, arrêtés) > actes administratifs individuels. Le juge administratif (Conseil d'État) contrôle la légalité des actes réglementaires (recours pour excès de pouvoir) et peut écarter un traité non réciproque ou inapplicable.
 

@@ -62,6 +62,13 @@ auteur: "..."
 
 Corps : titres `#`, `##`, `###`, listes à puces ou numérotées, tableaux, `**gras**`, `*italique*`, citations avec `>`.
 
+## Schémas dans les PDF (blocs ```schema)
+
+Trois formes, détectées automatiquement :
+- **Flux vertical** : `A --> B --> C` (flèches vers le bas, ex. hiérarchie des normes)
+- **Organigramme** : racine en première ligne, enfants indentés de 2 espaces
+- **Colonnes** : `A | B | C` (boîtes côte à côte avec flèches horizontales)
+
 ## Règles méthodologiques intégrées au modèle
 
 - distinguer faits, analyses et opinions ;

@@ -33,6 +33,14 @@ Les **inspections générales** (IGF, IGA, IGAS, inspection de l'éducation, etc
 
 **Transition.** Mais l'administration centrale ne suffit pas à gouverner un territoire de 550 000 km² : l'État agit aussi par des services déconcentrés — chapitre II.
 
+```schema
+Administration de l'État
+  Administration centrale : ministères, cabinets, SGG, SGAR, inspections
+  Services déconcentrés : préfet de région, préfet de département, sous-préfets, DDI, ARS, DDFIP
+  Opérateurs et établissements publics (agences, EPA, EPIC)
+  Autorités indépendantes : ARCOM, CNIL, HATVP, AMF, Autorité de la concurrence, Défenseur des droits
+```
+
 ## Chapitre II — La déconcentration et les services territoriaux de l'État
 
 ### 1. Déconcentration et décentralisation : la distinction opérationnelle
@@ -105,6 +113,10 @@ La tutelle ministérielle s'exerce par l'approbation de certaines décisions, la
 La création d'opérateurs spécialisés répond à un besoin d'expertise et d'autonomie de gestion, mais elle peut entraîner **fragmentation, coûts de coordination et perte de maîtrise stratégique** pour l'État. C'est un débat récurrent de la réforme de l'État (axe 12).
 
 ## Chapitre VI — Synthèse opérationnelle et implications pour un cadre
+
+```schema
+Décide : Gouvernement et ministres | Pilote : directions centrales, SGG | Exécute : préfet, DDI, services | Opère : opérateurs et établissements | Régule : AAI | Contrôle : Cour des comptes, Parlement, juridictions
+```
 
 **Grille de lecture à retenir** : pour toute politique publique, se demander — qui décide (ministre/Gouvernement) ? qui pilote (direction centrale, SGG) ? qui exécute sur le territoire (préfet, DDI, services spécialisés) ? qui opère (opérateur, établissement public) ? qui régule (AAI) ? qui contrôle (Cour des comptes, Parlement, inspections, juridictions) ?
 

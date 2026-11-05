@@ -106,6 +106,127 @@ def title_block(pdf, meta, semaine, periode):
     pdf.set_text_color(*INK)
 
 
+def _box(pdf, x, y, w, text, fill=None, txt=(255, 255, 255), size=8.5, min_h=9):
+    import math
+    pdf.set_font("DejaVu", "B", size)
+    tw = pdf.get_string_width(text)
+    lines = max(1, math.ceil(tw / max(1, w - 6)))
+    h = max(min_h, lines * (size * 0.55) + 4)
+    if fill:
+        pdf.set_fill_color(*fill)
+        pdf.set_draw_color(*RULE)
+        pdf.rect(x, y, w, h, style="DF")
+    else:
+        pdf.set_draw_color(*RULE)
+        pdf.rect(x, y, w, h, style="D")
+    pdf.set_text_color(*txt)
+    pdf.set_xy(x + 2, y + 2)
+    pdf.multi_cell(w - 4, size * 0.55, text, align="C", new_x="LMARGIN", new_y="NEXT")
+    pdf.set_text_color(*INK)
+    return h
+
+
+def _arrow(pdf, x1, y1, x2, y2):
+    pdf.set_draw_color(*BLUE_MED)
+    pdf.set_line_width(0.5)
+    pdf.line(x1, y1, x2, y2)
+    import math
+    ang = math.atan2(y2 - y1, x2 - x1)
+    L = 3
+    for da in (2.6, -2.6):
+        pdf.line(x2, y2, x2 - L * math.cos(ang + da), y2 - L * math.sin(ang + da))
+
+
+def _ensure_space(pdf, h):
+    if pdf.get_y() + h > pdf.h - pdf.b_margin:
+        pdf.add_page()
+
+
+def render_schema(pdf, content):
+    import math
+    lines = [l for l in content.strip().splitlines() if l.strip() and not l.strip().startswith("#")]
+    if not lines:
+        return
+    has_arrow = any("-->" in l for l in lines)
+    indented = any(l.startswith("  ") for l in lines)
+    pdf.ln(1)
+    if has_arrow:
+        bw = 130
+        x = (pdf.w - bw) / 2
+        y = pdf.get_y()
+        _ensure_space(pdf, 20)
+        y = pdf.get_y()
+        prev = None
+        for l in lines:
+            for node in [n.strip() for n in l.split("-->") if n.strip()]:
+                _ensure_space(pdf, 16)
+                y = pdf.get_y()
+                h = _box(pdf, x, y, bw, node, fill=BLUE)
+                if prev is not None:
+                    _arrow(pdf, x + bw / 2, prev[1] + prev[2], x + bw / 2, y)
+                prev = (x + bw / 2, y, h)
+                pdf.set_y(y + h + 7)
+        pdf.ln(2)
+    elif indented:
+        root = lines[0].strip()
+        children = []
+        for l in lines[1:]:
+            lvl = (len(l) - len(l.lstrip())) // 2
+            children.append((lvl, l.strip()))
+        maxlvl = max(c[0] for c in children) if children else 0
+        avail = pdf.w - pdf.l_margin - pdf.r_margin - 8
+        roottop = pdf.get_y()
+        _ensure_space(pdf, (maxlvl + 2) * 26 + 20)
+        roottop = pdf.get_y()
+        rw = min(90, avail)
+        rh = _box(pdf, (pdf.w - rw) / 2, roottop, rw, root, fill=BLUE, size=9)
+        root_cx = pdf.w / 2
+        by_level = {}
+        for lvl, label in children:
+            by_level.setdefault(lvl, []).append(label)
+        prev_centers = {0: [root_cx]}
+        for lvl in sorted(by_level):
+            labels = by_level[lvl]
+            n = len(labels)
+            bw = min(52, (avail - 4 * (n - 1)) / n)
+            total = n * bw + (n - 1) * 4
+            x0 = (pdf.w - total) / 2
+            y = roottop + rh + 14 + (lvl - 1) * 30
+            centers = []
+            for i, label in enumerate(labels):
+                x = x0 + i * (bw + 4)
+                h = _box(pdf, x, y, bw, label, fill=None, txt=INK)
+                centers.append(x + bw / 2)
+                py = roottop + rh if lvl == 1 else roottop + rh + 14 + (lvl - 2) * 30 + 9
+                px = prev_centers.get(lvl - 1, [root_cx])[min(i, len(prev_centers.get(lvl - 1, [root_cx])) - 1)]
+                _arrow(pdf, px, py, x + bw / 2, y)
+            prev_centers[lvl] = centers
+        pdf.set_y(roottop + rh + 14 + maxlvl * 30 + 8)
+        pdf.ln(2)
+    else:
+        nodes = [n.strip() for l in lines for n in l.split("|") if n.strip()]
+        n = len(nodes)
+        gap = 6
+        avail = pdf.w - pdf.l_margin - pdf.r_margin
+        bw = min(58, (avail - gap * (n - 1)) / n)
+        total = n * bw + (n - 1) * gap
+        x = (pdf.w - total) / 2
+        y = pdf.get_y()
+        _ensure_space(pdf, 24)
+        y = pdf.get_y()
+        centers = []
+        hmax = 0
+        for label in nodes:
+            h = _box(pdf, x, y, bw, label, fill=LIGHT, txt=INK)
+            hmax = max(hmax, h)
+            centers.append((x, x + bw))
+            x += bw + gap
+        for i in range(n - 1):
+            _arrow(pdf, centers[i][1], y + hmax / 2, centers[i + 1][0], y + hmax / 2)
+        pdf.set_y(y + hmax + 5)
+        pdf.ln(2)
+
+
 def build_pdf(md_path, out_path):
     with open(md_path, encoding="utf-8") as f:
         raw = f.read()
@@ -218,6 +339,10 @@ def build_pdf(md_path, out_path):
             pdf.line(pdf.l_margin + 1.5, y, pdf.l_margin + 1.5, pdf.get_y())
             pdf.set_text_color(*INK)
             pdf.ln(1.5)
+            i += 1
+            continue
+        if t == "fence" and "schema" in tok.info:
+            render_schema(pdf, tok.content)
             i += 1
             continue
         if t == "hr":
