@@ -13,6 +13,20 @@ GRAY = (105, 105, 115)
 LIGHT = (244, 246, 250)
 RULE = (205, 212, 228)
 
+PALETTE = [
+    (24, 55, 110),    # bleu
+    (0, 105, 105),    # sarcelle
+    (92, 48, 140),    # violet
+    (18, 105, 62),    # vert
+    (168, 84, 20),    # orange
+    (150, 40, 60),    # bordeaux
+]
+BLOCK_STYLES = {
+    "memo": ((232, 239, 252), (52, 88, 150)),    # fond, barre
+    "cle": ((253, 243, 224), (200, 130, 30)),    # ambre
+    "alerte": ((252, 235, 233), (190, 60, 50)),  # rouge clair
+}
+
 
 def find_font_dir():
     import matplotlib
@@ -84,9 +98,13 @@ class FichePDF(FPDF):
 
 
 def title_block(pdf, meta, semaine, periode):
-    pdf.set_fill_color(*BLUE)
     y0 = pdf.get_y()
-    pdf.rect(pdf.l_margin, y0, pdf.w - pdf.l_margin - pdf.r_margin, 30, style="F")
+    w = pdf.w - pdf.l_margin - pdf.r_margin
+    pdf.set_fill_color(*BLUE)
+    pdf.rect(pdf.l_margin, y0, w, 30, style="F")
+    pdf.set_fill_color(*PALETTE[1])
+    pdf.rect(pdf.l_margin, y0 + 30, w, 3, style="F")
+    pdf.set_fill_color(255, 255, 255)
     pdf.set_xy(pdf.l_margin + 6, y0 + 6)
     pdf.set_font("DejaVu", "B", 17)
     pdf.set_text_color(255, 255, 255)
@@ -264,17 +282,24 @@ def build_pdf(md_path, out_path):
             sizes = {1: 14.5, 2: 12, 3: 10.5}
             pdf.ln(3 if level > 1 else 4)
             if level == 1:
+                accent = PALETTE[pdf.page_no() % len(PALETTE)] if False else PALETTE[getattr(pdf, "_ch", 0) % len(PALETTE)]
+                pdf._ch = getattr(pdf, "_ch", 0) + 1
                 pdf.set_font("DejaVu", "B", sizes[level])
-                pdf.set_text_color(*BLUE)
+                pdf.set_text_color(*accent)
                 pdf.multi_cell(0, 7, content.strip(), markdown=True, new_x="LMARGIN", new_y="NEXT")
-                pdf.set_draw_color(*BLUE)
+                pdf.set_draw_color(*accent)
                 pdf.set_line_width(0.5)
                 pdf.line(pdf.l_margin, pdf.get_y() + 0.5, pdf.w - pdf.r_margin, pdf.get_y() + 0.5)
                 pdf.ln(2)
             elif level == 2:
+                accent = PALETTE[getattr(pdf, "_ch", 0) % len(PALETTE)]
+                pdf._ch = getattr(pdf, "_ch", 0) + 1
                 pdf.set_font("DejaVu", "B", sizes[level])
-                pdf.set_text_color(*BLUE_MED)
+                pdf.set_text_color(*accent)
                 pdf.multi_cell(0, 6.5, content.strip(), markdown=True, new_x="LMARGIN", new_y="NEXT")
+                pdf.set_draw_color(*accent)
+                pdf.set_line_width(0.4)
+                pdf.line(pdf.l_margin, pdf.get_y() + 0.3, pdf.l_margin + 40, pdf.get_y() + 0.3)
                 pdf.ln(0.5)
             else:
                 pdf.set_font("DejaVu", "B", sizes[level])
@@ -345,16 +370,18 @@ def build_pdf(md_path, out_path):
             render_schema(pdf, tok.content)
             i += 1
             continue
-        if t == "fence" and "memo" in tok.info:
+        if t == "fence" and any(k in tok.info for k in BLOCK_STYLES):
+            kind = next(k for k in BLOCK_STYLES if k in tok.info)
+            fill, bar = BLOCK_STYLES[kind]
             txt = tok.content.strip()
             _ensure_space(pdf, 20)
             y = pdf.get_y()
             pdf.set_font("DejaVu", "", 9.5)
             pdf.set_text_color(*INK)
-            pdf.set_fill_color(232, 239, 252)
+            pdf.set_fill_color(*fill)
             pdf.set_x(pdf.l_margin + 5)
             pdf.multi_cell(pdf.w - pdf.r_margin - pdf.l_margin - 5, 5.2, txt, fill=True, align="J", new_x="LMARGIN", new_y="NEXT")
-            pdf.set_draw_color(*BLUE_MED)
+            pdf.set_draw_color(*bar)
             pdf.set_line_width(1.2)
             pdf.line(pdf.l_margin + 1.5, y, pdf.l_margin + 1.5, pdf.get_y())
             pdf.ln(2)

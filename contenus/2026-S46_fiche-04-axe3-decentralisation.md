@@ -245,6 +245,10 @@ La décentralisation française repose sur un équilibre constitutionnel consacr
 
 *« La décentralisation a-t-elle affaibli l'État ? »* — Non : l'État conserve la compétence générale, la loi, le contrôle de légalité et le financement ; mais il partage l'action publique avec des collectivités élues, dans un cadre constitutionnel qui garantit à la fois l'autonomie (art. 72) et l'unité (art. 1er). La vraie question est celle de l'effectivité : les collectivités disposent-elles de moyens suffisants, et l'État garde-t-il les moyens d'assurer l'égalité entre les territoires (péréquation, contrôle) ?
 
+```cle
+RÉPONSE ORALE TYPE (3-5 min) — « La décentralisation a-t-elle affaibli l'État ? » : Non, l'État conserve compétence générale, loi, contrôle et financement ; mais il partage l'action publique avec des collectivités élues (art. 72). Vraie question = effectivité : moyens des collectivités et égalité entre territoires (péréquation, contrôle).
+```
+
 ### 4. Chronologie mémo
 
 1982 (2 mars) lois Defferre ; 1983 (7 janv., 22 juill.) transferts ; 1988 (5 janv.) loi d'amélioration ; 1992 (6 févr.) loi ATR (EPCI) ; 2003 (28 mars) révision constitutionnelle + LO 2003-705 et 2004-758 ; 2010 (16 déc.) réforme des collectivités ; 2014 (27 janv.) MAPTAM ; 2015 (7 août) NOTRe ; 2019 (27 déc.) loi proximité ; 2022 (21 fév.) loi 3DS.
