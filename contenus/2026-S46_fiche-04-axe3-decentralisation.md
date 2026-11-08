@@ -1,143 +1,229 @@
 ---
-titre: "Fiche 4 — Cours, Axe 3 : La décentralisation en France, des lois Defferre à la loi 3DS"
+titre: "Fiche 4 — Cours approfondi, Axe 3 : La décentralisation en France, des lois Defferre à la loi 3DS"
 semaine: "2026-S46"
 periode: "du 09/11/2026 au 15/11/2026"
-auteur: "Module A — préparation IRA | Destinataire : Violette Drulang | Livraison quotidienne J3"
+auteur: "Module A — préparation IRA | Destinataire : Violette Drulang | Livraison quotidienne J3 (version approfondie)"
 ---
 
-# Cours — Axe 3 : La décentralisation française : du modèle centralisé aux lois Defferre et à la loi 3DS
+# Cours approfondi — Axe 3 : La décentralisation française, des lois Defferre à la loi 3DS
 
-## Introduction : pourquoi la décentralisation est une question de cadre
+## Introduction : la décentralisation comme question de cadre
 
-La décentralisation n'est pas qu'un sujet d'organisation territoriale : c'est une question de responsabilité, de financement et de légitimité. Depuis 1982, des compétences entières ont été transférées de l'État aux collectivités territoriales, qui les exercent « librement » (art. 72 de la Constitution). Pour un futur attaché d'administration, maîtriser ce sujet signifie savoir dire qui décide, qui paie et qui contrôle — dans un système où ces trois fonctions sont désormais éclatées entre l'État et les collectivités.
+La décentralisation n'est pas un simple sujet d'organisation territoriale : c'est une question de **responsabilité**, de **financement** et de **légitimité démocratique**. Depuis 1982, des pans entiers de l'action publique ont été transférés de l'État à des collectivités élues, qui les exercent « librement » dans le cadre de la loi (art. 72 de la Constitution). Pour un futur attaché d'administration, maîtriser ce sujet, c'est savoir répondre à trois questions concrètes dans n'importe quel service : **qui décide, qui paie, qui contrôle ?** — trois fonctions désormais éclatées entre l'État et les collectivités.
 
-Ce cours présente d'abord le cadre constitutionnel, puis l'histoire législative de 1982 à 2022, la répartition des compétences, l'autonomie financière, les évolutions récentes, et se conclut par des points mémo, des résumés analytiques et une réponse synthétique à une question orale type.
+Ce cours est volontairement approfondi. Il présente d'abord le cadre constitutionnel (chapitre I), puis la genèse politique et législative de 1982-1988 (chapitre II), la répartition détaillée des compétences (chapitre III), l'autonomie financière et le contrôle (chapitre IV), les réformes de 2010 à 2022 et leurs controverses (chapitre V), la jurisprudence et le contentieux (chapitre VI), et se conclut par des synthèses mobilisables, des pistes d'analyse et une réponse orale type (chapitre VII).
 
 ## Chapitre I — Le cadre constitutionnel : les articles 72 à 74 de la Constitution
 
-### 1. La libre administration (art. 72, al. 1 et 2)
+### 1. Avant 1982 : une Constitution muette sur les collectivités
 
-L'article 72 de la Constitution, dans sa rédaction issue de la **loi constitutionnelle n° 2003-276 du 28 mars 2003**, dispose que les collectivités territoriales « s'administrent librement par des conseils élus » et assurent, dans les conditions prévues par la loi, la mise en œuvre de la compétence de l'État (c'est la déconcentration). La libre administration est un **principe à valeur constitutionnelle** : le Conseil constitutionnel en a fait un principe fondamental reconnu par les lois de la République et en contrôle le respect.
+La Constitution de 1958 consacre un seul article aux collectivités (art. 72 dans sa rédaction initiale), qui se borne à prévoir leur existence et leur élection au suffrage universel. Jusqu'en 2003, la libre administration n'a pas de base constitutionnelle explicite : elle est dégagée par le Conseil d'État comme principe général du droit, puis consacrée par la révision du 28 mars 2003.
 
-> ► **POINT MÉMO — L'article 72 C58** : trois idées-force. (1) Libre administration = les collectivités s'administrent librement par des conseils élus. (2) Elles participent aussi à la mise en œuvre de la compétence de l'État (déconcentration). (3) La loi encadre : compétences, ressources, contrôle.
+### 2. La révision du 28 mars 2003 : la décentralisation constitutionnalisée
 
-### 2. L'autonomie financière (art. 72-2)
+La **loi constitutionnelle n° 2003-276 du 28 mars 2003** réécrit les articles 72 à 74 et consacre :
 
-L'article 72-2, introduit par la révision de 2003 et précisé par la **loi organique n° 2004-758 du 29 juillet 2004** relative à l'autonomie financière des collectivités territoriales, garantit que : les collectivités disposent de ressources dont elles peuvent disposer librement ; tout transfert de compétences s'accompagne d'un transfert de ressources (compensation financière) ; un dispositif de péréquation vise à corriger les inégalités de ressources et de charges. Le juge constitutionnel veille à ce que l'autonomie financière soit « suffisante ».
+- **art. 72, al. 1er** : les collectivités « s'administrent librement par des conseils élus » — la **libre administration** devient un principe à valeur constitutionnelle ;
+- **art. 72, al. 2** : elles assurent, dans les conditions prévues par la loi, la mise en œuvre de la compétence de l'État (c'est la **déconcentration**, distincte de la décentralisation) et disposent d'un pouvoir réglementaire pour l'exercice de leurs compétences ;
+- **art. 72, al. 3** : possibilité d'**expérimentations** législatives et réglementaires et, pour l'outre-mer, d'**adaptations** — la **différenciation** est reconnue ;
+- **art. 72-1** : le **référendum décisionnel local**, précisé par la **loi organique n° 2003-705 du 1er août 2003** : les électeurs d'une collectivité peuvent adopter directement un projet de délibération ;
+- **art. 72-2** : l'**autonomie financière** (voir chapitre IV) ;
+- **art. 73 et 74** : départements et régions d'outre-mer (adaptations) et collectivités d'outre-mer à statut particulier.
 
-### 3. La différenciation (art. 72, al. 3) et les outre-mer (art. 73-74)
-
-L'article 72, alinéa 3 (révision 2003) permet des **expérimentations** législatives et réglementaires et, pour les collectivités d'outre-mer, des **adaptations** (art. 73). L'article 74 organise les collectivités d'outre-mer à statut particulier (Polynésie, Nouvelle-Calédonie, etc.). La différenciation, longtemps combattue au nom de l'égalité républicaine, est désormais constitutionnellement reconnue — mais encadrée.
-
-```schema
-Compétence de l'État (art. 72 al. 2) --> Déconcentration : préfets, DDI, services de l'État sur le territoire
-Compétence transférée (lois 1982-1983 et suivantes) --> Décentralisation : communes, départements, régions, EPCI
-Ressources des collectivités (art. 72-2) --> Impôts locaux + dotations de l'État + péréquation
-Contrôle --> Contrôle de légalité a posteriori (tribunal administratif) + contrôle budgétaire (chambres régionales des comptes)
+```memo
+POINT MÉMO — L'article 72 C58 (révision 2003). Trois idées-force : (1) libre administration par des conseils élus ; (2) compétences d'attribution encadrées par la loi + pouvoir réglementaire d'exécution ; (3) expérimentations possibles (al. 3). L'article 72-2 ajoute l'autonomie financière avec compensation des transferts et péréquation.
 ```
 
-**Transition.** Ce cadre de 2003 a été précédé par la grande rupture législative de 1982.
+### 3. Le bloc de constitutionnalité et les libertés locales
 
-## Chapitre II — La rupture de 1982 : les lois Defferre et les transferts de compétences
-
-### 1. La loi n° 82-213 du 2 mars 1982
-
-La **loi n° 82-213 du 2 mars 1982** relative aux droits et libertés des communes, des départements et des régions est la première loi de décentralisation au sens juridique fort. Elle opère trois changements majeurs :
-
-1. **Suppression de la tutelle a priori** : les actes des collectivités ne sont plus soumis à l'approbation préalable du préfet ; le contrôle devient un **contrôle de légalité a posteriori**, déférable devant le tribunal administratif à l'initiative du préfet (ou de tout intéressé) ;
-2. **Transfert de l'exécutif local** : le président du conseil général et le président du conseil régional deviennent les exécutifs départemental et régional, élus par leurs assemblées (auparavant, le préfet présidait) ;
-3. **Libertés nouvelles** pour les communes (gestion autonome, garanties statutaires des élus locaux).
-
-Le Conseil constitutionnel a validé cette loi par sa **décision n° 82-138 DC du 25 février 1982**, tout en censurant certaines dispositions, ce qui illustre le rôle de gardien de la Constitution dans l'équilibre entre unité de la République et autonomie locale.
-
-> ► **POINT MÉMO — 2 mars 1982** : retenir la formule « plus de tutelle a priori, mais un contrôle de légalité a posteriori ». C'est le cœur de la réforme : l'autonomie contre la légalité.
-
-### 2. Les lois de 1983 : la répartition des compétences
-
-Les compétences transférées sont organisées par deux lois complémentaires : la **loi n° 83-8 du 7 janvier 1983** (compétences des régions) et la **loi n° 83-1186 du 22 juillet 1983** (répartition des compétences entre l'État, les communes, les départements et les régions). Sont transférés notamment : l'aménagement du territoire et le développement économique (régions), l'urbanisme et le logement (communes), l'action sociale, la protection maternelle et infantile, les collèges et lycées (bâtiments et personnel non enseignant) pour les départements, la voirie départementale, etc. La **loi n° 2004-809 du 13 août 2004** relative aux libertés et responsabilités locales poursuit le mouvement (transferts dans la voirie, le personnel des lycées, etc.).
-
-### 3. Le référendum local (art. 72-1)
-
-L'article 72-1, introduit par la révision de 2003 et précisé par la **loi organique n° 2003-705 du 1er août 2003**, permet un **référendum décisionnel local** : les électeurs d'une collectivité peuvent être appelés à se prononcer sur un projet de délibération. C'est un instrument de démocratie directe locale, rarement utilisé mais symboliquement important.
+Le Conseil constitutionnel a progressivement enrichi le bloc de constitutionnalité de principes intéressant les collectivités : principe d'égalité, libre administration (reconnu comme principe fondamental reconnu par les lois de la République avant 2003), autonomie financière « suffisante » (art. 72-2). La **QPC** (art. 61-1, révision 2008, loi organique n° 2009-1523 du 10 décembre 2009) permet désormais de contester la constitutionnalité des lois intéressant les collectivités dans le cadre d'un procès.
 
 ```schema
-1982 : loi du 2 mars 1982 (fin de la tutelle a priori) --> 1983 : lois du 7 janvier et 22 juillet (transferts de compétences) --> 2003 : révision constitutionnelle (art. 72 al. 3, 72-2) + LO 2003-705 (référendum local) --> 2004 : LO 2004-758 (autonomie financière) + loi 2004-809 (nouveaux transferts) --> 2010-2022 : lois de réforme territoriale
+Constitution de 1958 (art. 1er : République indivisible) --> Révision 2003 : libre administration, autonomie financière, différenciation (art. 72 à 74) --> Lois ordinaires : transferts de compétences (1982-1983 et suivantes) --> Lois organiques : référendum local (2003-705), autonomie financière (2004-758) --> Règlements et actes des collectivités
 ```
 
-**Transition.** Quelles compétences exactement, et comment sont-elles réparties ? C'est le chapitre III.
+**Transition.** Ce cadre de 2003 couronne vingt ans de législation décentralisatrice, née d'un moment politique précis : l'alternance de 1981.
 
-## Chapitre III — La répartition des compétences entre État et collectivités
+## Chapitre II — La genèse politique et législative : 1981-1988
 
-### 1. Le principe : des compétences d'attribution
+### 1. Le contexte politique : l'alternance de 1981 et la crise du centralisme
 
-Contrairement à l'État, qui a une compétence générale, les collectivités n'ont que des **compétences d'attribution** : elles n'exercent que ce que la loi leur confère (principe de spécialité, art. 72 al. 2 : « dans les conditions prévues par la loi »). Toute compétence non attribuée reste à l'État.
+L'élection de François Mitterrand en mai 1981 marque une alternance historique. La gauche, avec Pierre Mauroy à Matignon et **Gaston Defferre** au ministère de l'Intérieur et de la Décentralisation, porte un projet de transformation de la société française. Le diagnostic est politique autant qu'administratif : l'État « jacobin », centralisé depuis la Révolution et Napoléon, est accusé d'étouffer les initiatives locales, de peser sur les libertés et d'être inefficace. La décentralisation apparaît comme un moyen de démocratiser la République et de rapprocher l'administration des citoyens.
 
-### 2. Les grandes familles de compétences
+### 2. La loi n° 82-213 du 2 mars 1982 : contenu détaillé
 
-| Domaine | Niveau compétent |
-|---|---|
-| Éducation : programmes, diplômes, enseignants | État (ministère, académies) |
-| Écoles primaires (bâtiments, personnel non enseignant) | Communes |
-| Collèges / lycées (bâtiments) | Départements / régions |
-| Action sociale, PMI, aide sociale à l'enfance | Départements |
-| Voirie départementale | Départements |
-| Aménagement du territoire, développement économique, transports régionaux | Régions |
-| Urbanisme, logement social, police municipale | Communes |
-| Police, sécurité, ordre public | État (préfet, police nationale, gendarmerie) |
+La **loi n° 82-213 du 2 mars 1982** relative aux droits et libertés des communes, des départements et des régions opère une rupture juridique majeure :
 
-### 3. L'enchevêtrement et la coopération
+1. **Fin de la tutelle a priori** : les actes des collectivités (délibérations, arrêtés, contrats) ne sont plus soumis à l'approbation préalable du préfet. Le contrôle devient un **contrôle de légalité a posteriori**, que le préfet (ou tout intéressé) peut déférer au tribunal administratif dans un délai de deux mois ;
+2. **Transfert de l'exécutif local** : le président du conseil général et le président du conseil régional deviennent les autorités exécutives, élus par leurs assemblées ; le préfet cesse de présider le conseil général et se voit recentré sur la représentation de l'État ;
+3. **Garanties pour les élus locaux** : statut, indemnités, congés pour mandat ;
+4. **Libertés des communes** : gestion autonome, notamment en matière de personnel et de finances.
 
-En pratique, la plupart des politiques sont **partagées** : politique de la ville, transition écologique, politique du logement mobilisent simultanément l'État, la région, le département, l'intercommunalité et la commune. D'où des mécanismes de coopération : conférences des financeurs, contrats de plan État-région, fonds européens gérés en partenariat. Cet enchevêtrement est la principale critique adressée au système (difficulté à identifier le responsable, multiplication des financements).
+Le **Conseil constitutionnel**, saisi par l'opposition, valide l'essentiel de la loi par sa **décision n° 82-138 DC du 25 février 1982**, tout en censurant certaines dispositions — ce qui illustre son rôle d'arbitre entre l'unité de la République (art. 1er) et l'autonomie des collectivités.
+
+```memo
+POINT MÉMO — 2 mars 1982. Formule à retenir : « fin de la tutelle a priori, contrôle de légalité a posteriori ». La loi Defferre ne supprime pas le contrôle de l'État : elle le transforme, en le confiant au juge administratif plutôt qu'au préfet.
+```
+
+### 3. Les lois de 1983 et les décrets d'application
+
+Les compétences transférées sont précisées par la **loi n° 83-8 du 7 janvier 1983** (compétences des régions) et la **loi n° 83-1186 du 22 juillet 1983** (répartition entre État, communes, départements, régions), complétées par de nombreux décrets d'application. Sont transférés : l'aménagement du territoire et le développement économique (régions), l'urbanisme et le logement (communes), l'action sociale et la PMI (départements), la gestion des collèges et lycées pour les bâtiments et le personnel non enseignant (départements et régions), la voirie départementale, la formation professionnelle, etc. La mise en œuvre concrète prend plusieurs années : recrutement des personnels transférés, transferts de crédits, adaptation des services.
+
+### 4. Les ajustements des années 1980
+
+La **loi n° 88-13 du 5 janvier 1988** relative à l'amélioration de la décentralisation procède aux premiers ajustements après la cohabitation de 1986 : clarification des compétences, garanties financières. Les années 1980 voient aussi la montée en puissance des **intercommunalités** (loi n° 83-1186 encourage la coopération intercommunale ; loi n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République, dite ATR, renforce les EPCI et crée les communautés urbaines).
+
+### 5. Ce que révèlent ces textes pour un cadre
+
+La décentralisation de 1982 n'est pas un acte technique : c'est un **choix politique** (démocratiser, rapprocher) traduit en **mécanismes juridiques** (fin de la tutelle, transfert de l'exécutif, compétences d'attribution). Comprendre cette double nature — politique et juridique — permet de comprendre pourquoi les débats sur la décentralisation sont toujours des débats sur la République elle-même.
+
+**Transition.** Quelles compétences exactement, et comment se répartissent-elles aujourd'hui ? C'est l'objet du chapitre III.
+
+## Chapitre III — La répartition des compétences : détail et mécanismes
+
+### 1. Le principe de spécialité
+
+Contrairement à l'État, qui dispose d'une **compétence générale**, les collectivités n'exercent que des **compétences d'attribution** : elles n'agissent que dans le cadre fixé par la loi (art. 72, al. 2). Toute action hors de ce cadre constitue un **vice de compétence**, sanctionné par le juge administratif. C'est la conséquence juridique directe de la libre administration : la liberté s'exerce dans la loi, pas contre elle.
+
+### 2. Les compétences par niveau de collectivité
+
+| Domaine | Commune / EPCI | Département | Région | État |
+|---|---|---|---|---|
+| Éducation : programmes, diplômes, enseignants | — | — | — | ✔ (ministère, académies) |
+| Écoles primaires (bâtiments, personnel non enseignant) | ✔ | — | — | — |
+| Collèges (bâtiments, ATOS) | — | ✔ | — | programmes ✔ |
+| Lycées (bâtiments, personnel) | — | — | ✔ | programmes ✔ |
+| Urbanisme, logement social, PLU | ✔ | — | — | — |
+| Action sociale, PMI, ASE, handicap (MDPH) | — | ✔ | — | financement sécu ✔ |
+| Voirie | ✔ (communale) | ✔ (départementale) | ✔ (nationale régionale) | ✔ (routes nationales) |
+| Aménagement, développement économique, transports régionaux | — | — | ✔ | ✔ (État stratège) |
+| Formation professionnelle | — | ✔ | ✔ | ✔ |
+| Police, ordre public | police municipale ✔ | — | — | police nationale, gendarmerie ✔ |
+| Environnement, eau, déchets | ✔ | ✔ | ✔ | réglementation ✔ |
+
+### 3. Les compétences partagées et les mécanismes de coopération
+
+En pratique, la plupart des politiques sont **partagées** : la politique de la ville, le logement, la transition écologique, la formation professionnelle mobilisent simultanément plusieurs niveaux. D'où des mécanismes de coopération : **conférences des financeurs**, contrats de plan État-région, contrats de ville, fonds européens (FEDER, FSE) gérés en partenariat. Cette architecture explique la difficulté classique : **qui est responsable quand quelque chose dysfonctionne ?**
 
 ```schema
-État (compétence générale) | Régions (aménagement, économie, transports) | Départements (action sociale, collèges, voirie) | Communes et EPCI (urbanisme, logement, écoles)
+État : compétence générale, loi, contrôle de légalité | Régions : aménagement, économie, transports, lycées | Départements : action sociale, collèges, voirie | Communes et EPCI : urbanisme, logement, écoles, police municipale
 ```
 
-> ► **POINT MÉMO — Compétences d'attribution** : une collectivité ne peut agir que dans le cadre fixé par la loi ; hors de ce cadre, son acte est illégal (vice de compétence), sanctionné par le juge administratif.
+```memo
+POINT MÉMO — Compétences d'attribution. Une collectivité ne peut agir que dans le cadre de la loi. Hors compétence = acte illégal (vice de compétence), annulable par le juge administratif. L'enchevêtrement réel des politiques se gère par la coopération (conférences des financeurs, contrats), pas par la hiérarchie entre collectivités — il n'y en a pas : elles sont autonomes entre elles.
+```
+
+### 4. Analyse critique : l'enchevêtrement
+
+L'enchevêtrement des compétences est la critique la plus fréquente adressée au système français : multiplication des acteurs, des financements, dilution des responsabilités, coûts de coordination. Les réponses ont oscillé entre **clarification** (suppression d'échelons, transferts massifs) et **coopération renforcée** (métropoles, conférences des financeurs). Aucune n'a tranché définitivement : le débat resurgit à chaque réforme (cf. chapitre V).
+
+**Transition.** Qui paie ? La répartition des compétences n'a de sens que si l'on comprend le financement — chapitre IV.
 
 ## Chapitre IV — L'autonomie financière et le contrôle des collectivités
 
-### 1. Les ressources (art. 72-2)
+### 1. Le principe constitutionnel : art. 72-2 et la LO n° 2004-758
 
-Les collectivités disposent de trois familles de ressources : la **fiscalité locale propre** (taxe foncière, taxe d'habitation, CFE, etc.), les **dotations et subventions de l'État** (DGF, DSIL, etc.), et l'**emprunt** (interdit pour financer le fonctionnement, autorisé pour l'investissement, art. L. 1411-3 du CGCT). L'équilibre budgétaire est obligatoire (art. L. 1612-4 du CGCT).
+L'**article 72-2 de la Constitution** (révision 2003), précisé par la **loi organique n° 2004-758 du 29 juillet 2004**, pose trois règles : (1) les collectivités disposent librement de leurs ressources ; (2) tout transfert ou création de compétences s'accompagne d'un transfert de ressources équivalent (**compensation financière**) ; (3) un mécanisme de **péréquation** corrige les inégalités de ressources et de charges entre collectivités. Le Conseil constitutionnel contrôle que l'autonomie financière est réelle (« suffisante »), notamment via la QPC.
 
-### 2. Le contrôle
+### 2. Les ressources des collectivités
 
-Deux contrôles principaux : le **contrôle de légalité** des actes (a posteriori, par le tribunal administratif, sur déférage du préfet) et le **contrôle budgétaire et financier** par les **chambres régionales et territoriales des comptes (CRC)**, qui examinent les comptes et peuvent saisir la Cour des comptes en cas d'irrégularité grave. Le juge administratif sanctionne les actes illégaux (recours pour excès de pouvoir).
+Trois familles de ressources :
 
-## Chapitre V — Les réformes de 2010 à 2022 : clarification, puis différenciation
+- **La fiscalité locale propre** : taxe foncière sur les propriétés bâties et non bâties, cotisation foncière des entreprises (CFE), cotisation sur la valeur ajoutée des entreprises (CVAE), taxe d'habitation (supprimée pour les résidences principales à partir de 2018, dans le cadre de la réforme de la loi de finances pour 2018, avec compensation par l'État), droits de mutation (DMTO), taxe sur les carburants (TICPE régionale), etc. ;
+- **Les dotations de l'État** : dotation globale de fonctionnement (DGF), dotation de solidarité rurale (DSR), dotation de solidarité urbaine (DSU), dotation globale d'équipement (DGE), FCTVA (compensation de la TVA), dotations de compensation de la réforme de la taxe d'habitation ;
+- **L'emprunt**, autorisé uniquement pour financer l'investissement (règle d'or, art. L. 1411-3 du CGCT), jamais le fonctionnement.
 
-- **Loi n° 2010-1563 du 16 décembre 2010** : réforme des collectivités territoriales (fusion de communes, conseillers territoriaux, clarification région/département) ;
-- **Loi n° 2014-58 du 27 janvier 2014 (MAPTAM)** : création des **métropoles**, renforcement des régions ;
-- **Loi n° 2015-991 du 7 août 2015 (NOTRe)** : nouvelle organisation territoriale de la République, réduction du nombre de régions (de 22 à 13 en métropole), élargissement des compétences régionales ;
-- **Loi du 27 décembre 2019** : engagement dans la vie locale et proximité de l'action publique ;
-- **Loi n° 2022-217 du 21 février 2022 (3DS)** : différenciation, décentralisation, déconcentration et simplification de l'action publique locale — ouvre davantage de différenciation entre collectivités et renforce la déconcentration.
+```schema
+État : prélèvements obligatoires, LOLF --> Dotations et compensations vers les collectivités --> Fiscalité locale propre des collectivités --> Dépenses d'investissement et de fonctionnement --> Contrôle par les CRC et le juge administratif
+```
 
-**Controverses actuelles** : faut-il supprimer un échelon (le département est régulièrement remis en cause) ? La commune reste-t-elle pertinente face aux intercommunalités ? La différenciation (art. 72 al. 3) menace-t-elle l'égalité républicaine ? L'État s'est-il désengagé de certains territoires ? Les collectivités disposent-elles de moyens proportionnés à leurs responsabilités ?
+### 3. L'équilibre budgétaire et le contrôle financier
 
-## Chapitre VI — Synthèse : résumés analytiques, pistes d'analyse et réponse orale type
+Les collectivités sont soumises à une **règle d'équilibre** (art. L. 1612-4 du CGCT) : les dépenses de fonctionnement doivent être couvertes par des recettes de fonctionnement. Le contrôle est assuré par les **chambres régionales et territoriales des comptes (CRC)** : vérification des comptes, examen de la gestion, et, en cas d'irrégularité grave (déficit non couvert, gestion défectueuse), saisie de la Cour des comptes et mesures correctrices (inscription d'office au budget par le préfet). Le **contrôle de légalité** des actes (déférable au tribunal administratif) complète ce dispositif.
 
-### Résumé synthétique mobilisable
+```memo
+POINT MÉMO — Autonomie financière réelle. L'autonomie (art. 72-2) ne signifie pas indépendance : les collectivités restent largement financées par l'État (dotations), soumises à l'équilibre budgétaire, et leurs actes sont contrôlés. La péréquation (verticale par l'État, horizontale entre collectivités) vise à réduire les inégalités territoriales de ressources.
+```
 
-La décentralisation française repose sur un équilibre constitutionnel (art. 72 à 74) : libre administration des collectivités élues, compétences d'attribution, autonomie financière garantie (art. 72-2), contrôle de légalité a posteriori. Née des lois Defferre de 1982-1983, consacré par la révision de 2003, elle a été complétée par les lois de 2010 à 2022, qui ont à la fois clarifié la carte (NOTRe) et ouvert la différenciation (3DS). Ses tensions permanentes : enchevêtrement des compétences, dépendance financière à l'État, différenciation vs égalité républicaine.
+### 4. Analyse critique : dépendance ou autonomie ?
 
-### Pistes d'analyse pour une copie
+Le débat est permanent : les collectivités disposent-elles de moyens « proportionnés à leurs responsabilités » ? La part des ressources propres dans le budget des collectivités est un indicateur clé (à actualiser sur les données de la DGFiP et de la Cour des comptes). La suppression de la taxe d'habitation (2018-2021) et sa compensation illustrent la tension : plus l'État compense, plus la fiscalité locale autonome se réduit.
 
-1. La décentralisation a-t-elle transféré un **pouvoir réel** ou seulement des **charges** ? (compensation financière, art. 72-2 ; pouvoir réglementaire resté à l'État).
-2. **Égalité vs différenciation** : l'article 72 al. 3 est-il une avancée démocratique ou une menace pour l'unité républicaine ?
-3. **L'État territorial** : le préfet coordonne, mais ne décide plus localement — quelle place pour la cohérence nationale ?
-4. **L'enchevêtrement** : faut-il clarifier (supprimer un échelon) ou mieux coordonner (conférences des financeurs) ?
+## Chapitre V — Les réformes de 2010 à 2022 : clarification, métropoles, différenciation
 
-### Réponse synthétique à une question orale type
+### 1. La loi du 16 décembre 2010
 
-*« La décentralisation a-t-elle affaibli l'État ? »* — Non : l'État conserve la compétence générale, la loi, le contrôle de légalité et les ressources ; mais il partage désormais l'action publique avec des collectivités élues, dans un cadre constitutionnel qui garantit à la fois l'autonomie (art. 72) et l'unité (art. 1er). La vraie question est celle de l'effectivité : les collectivités disposent-elles de moyens et de compétences suffisants pour agir, et l'État garde-t-il les moyens de garantir l'égalité entre les territoires ?
+La **loi n° 2010-1563 du 16 décembre 2010** de réforme des collectivités territoriales vise à clarifier la carte : création des **conseillers territoriaux** (élus communs aux départements et régions), possibilité de fusion de communes, renforcement de l'intercommunalité (schémas départementaux de coopération intercommunale).
+
+### 2. MAPTAM (2014) et NOTRe (2015)
+
+- **Loi n° 2014-58 du 27 janvier 2014 (MAPTAM)** : création des **métropoles** (statut dérogatoire de grande intercommunalité avec des compétences élargies), renforcement des régions ;
+- **Loi n° 2015-991 du 7 août 2015 (NOTRe)** : réduction du nombre de régions métropolitaines de 22 à 13, élargissement des compétences régionales (transports, aménagement, formation professionnelle, gestion des fonds européens).
+
+### 3. La loi du 27 décembre 2019 et la loi 3DS (2022)
+
+La **loi du 27 décembre 2019** relative à l'engagement dans la vie locale et à la proximité de l'action publique renforce les communes et la proximité. La **loi n° 2022-217 du 21 février 2022 (3DS)** — différenciation, décentralisation, déconcentration et simplification de l'action publique locale — ouvre davantage la **différenciation** entre collectivités (art. 72 al. 3) et renforce la déconcentration de l'État.
+
+### 4. Les grandes controverses territoriales
+
+1. **Faut-il supprimer un échelon ?** Le département est régulièrement remis en cause (rapport Warsmann, débats de 2010-2014) ; il a été maintenu, mais son rôle est affaibli (transfert des routes, de la formation professionnelle vers les régions).
+2. **La commune est-elle encore pertinente ?** Les intercommunalités obligatoires (loi NOTRe : seuil de 15 000 habitants) rapprochent la décision intercommunale, parfois perçue comme éloignant les citoyens.
+3. **La différenciation menace-t-elle l'égalité républicaine ?** (art. 72 al. 3 vs art. 1er) — débat central depuis 2003, ravivé par la 3DS.
+4. **L'État s'est-il désengagé de certains territoires ?** (déserts administratifs et médicaux, fermetures de services publics en zone rurale — cf. thème 1 IRA 2027).
+5. **Recentralisation réelle ou adaptation ?** (ex. : gestion de crise sanitaire recentralisée en 2020, lois de sécurité) — le mouvement pendulaire est une constante.
+
+```schema
+2010 : loi 2010-1563 (conseillers territoriaux) --> 2014 : MAPTAM (métropoles) --> 2015 : NOTRe (13 régions) --> 2019 : loi proximité --> 2022 : loi 3DS (différenciation)
+```
+
+**Transition.** Quel bilan juridique et contentieux tirer de quarante ans de décentralisation ? Chapitre VI.
+
+## Chapitre VI — Jurisprudence et contentieux de la décentralisation
+
+### 1. Le Conseil constitutionnel, juge de l'équilibre
+
+- **Décision n° 82-138 DC du 25 février 1982** : validation de la loi du 2 mars 1982 avec censures partielles — le juge constitutionnel arbitre entre unité de la République (art. 1er) et autonomie locale ;
+- **Décisions relatives à l'article 72-2** : le Conseil constitutionnel contrôle que l'autonomie financière est « suffisante » et que les transferts de compétences sont accompagnés de compensations financières effectives (développées notamment à l'occasion des QPC depuis 2010) ;
+- **Décisions sur la libre administration** : la libre administration est protégée comme principe à valeur constitutionnelle (avant même 2003, comme PFRLR).
+
+### 2. Le Conseil d'État, juge de la légalité
+
+Le Conseil d'État a dégagé la **libre administration** comme principe général du droit et contrôle les actes des collectivités par la voie du **recours pour excès de pouvoir**. Il veille au respect du principe d'égalité entre collectivités, à la légalité des transferts de compétences et au bon usage des deniers publics (contentieux financier). Les **grandes décisions** du Conseil d'État en la matière sont des références incontournables (à rechercher dans les Grands arrêts).
+
+### 3. Le contentieux financier
+
+Les chambres régionales des comptes contrôlent les comptes et la gestion ; en cas d'irrégularité, le préfet peut procéder à l'inscription d'office au budget (art. L. 1612-5 et suivants du CGCT). La Cour des comptes publie des rapports réguliers sur les finances locales et la décentralisation, devenus des références pour évaluer le système.
+
+## Chapitre VII — Synthèses mobilisables, pistes d'analyse et réponse orale type
+
+### 1. Résumé synthétique (mobilisable tel quel en copie)
+
+La décentralisation française repose sur un équilibre constitutionnel consacré en 2003 (art. 72 à 74) : libre administration des collectivités élues, compétences d'attribution, autonomie financière avec compensation et péréquation (art. 72-2), contrôle de légalité a posteriori et contrôle financier. Née politiquement de l'alternance de 1981 et juridiquement des lois Defferre de 1982-1983 (loi n° 82-213 du 2 mars 1982, validée par la décision n° 82-138 DC du 25 février 1982), elle a été approfondie par les lois de 2010 à 2022 (MAPTAM, NOTRe, 3DS), qui ont clarifié la carte et ouvert la différenciation. Ses tensions permanentes : enchevêtrement des compétences, dépendance financière à l'État, différenciation vs égalité républicaine, désengagement territorial de l'État.
+
+### 2. Pistes d'analyse pour une copie
+
+1. **Pouvoir réel ou charges transférées ?** La décentralisation a-t-elle transféré un pouvoir ou seulement des dépenses ? (compensation art. 72-2, pouvoir réglementaire resté largement à l'État, contrôle de légalité).
+2. **Égalité vs différenciation** : l'article 72 al. 3 est-il une avancée démocratique ou une atteinte à l'unité républicaine (art. 1er) ?
+3. **Qui gouverne le territoire ?** Le préfet coordonne, les élus décident localement : quelle cohérence nationale des politiques publiques ?
+4. **L'enchevêtrement** : faut-il supprimer un échelon (département ?) ou renforcer la coopération (métropoles, conférences des financeurs) ?
+5. **L'effectivité** : les collectivités ont-elles les moyens de leurs compétences (autonomie financière réelle) ? Quels indicateurs (part des ressources propres, dette, pression fiscale locale) ?
+
+### 3. Réponse synthétique à une question orale type
+
+*« La décentralisation a-t-elle affaibli l'État ? »* — Non : l'État conserve la compétence générale, la loi, le contrôle de légalité et le financement ; mais il partage l'action publique avec des collectivités élues, dans un cadre constitutionnel qui garantit à la fois l'autonomie (art. 72) et l'unité (art. 1er). La vraie question est celle de l'effectivité : les collectivités disposent-elles de moyens suffisants, et l'État garde-t-il les moyens d'assurer l'égalité entre les territoires (péréquation, contrôle) ?
+
+### 4. Chronologie mémo
+
+1982 (2 mars) lois Defferre ; 1983 (7 janv., 22 juill.) transferts ; 1988 (5 janv.) loi d'amélioration ; 1992 (6 févr.) loi ATR (EPCI) ; 2003 (28 mars) révision constitutionnelle + LO 2003-705 et 2004-758 ; 2010 (16 déc.) réforme des collectivités ; 2014 (27 janv.) MAPTAM ; 2015 (7 août) NOTRe ; 2019 (27 déc.) loi proximité ; 2022 (21 fév.) loi 3DS.
 
 ## Sources primaires et bibliographie commentée
 
-**Textes (versions consolidées sur Légifrance)** : art. 1er, 72, 72-1, 72-2, 72 al. 3, 73, 74 C58 ; loi constitutionnelle n° 2003-276 du 28 mars 2003 ; LO n° 2003-705 du 1er août 2003 ; LO n° 2004-758 du 29 juillet 2004 ; loi n° 82-213 du 2 mars 1982 ; lois n° 83-8 du 7 janvier 1983 et n° 83-1186 du 22 juillet 1983 ; loi n° 2004-809 du 13 août 2004 ; loi n° 2010-1563 du 16 décembre 2010 ; loi n° 2014-58 du 27 janvier 2014 ; loi n° 2015-991 du 7 août 2015 ; loi du 27 décembre 2019 ; loi n° 2022-217 du 21 février 2022 ; CGCT (art. L. 1411-3, L. 1612-4).
+**Textes (vérifier les versions consolidées sur Légifrance)** : Constitution art. 1er, 72, 72-1, 72-2, 73, 74 ; loi constitutionnelle n° 2003-276 du 28 mars 2003 ; LO n° 2003-705 du 1er août 2003 ; LO n° 2004-758 du 29 juillet 2004 ; loi n° 82-213 du 2 mars 1982 ; lois n° 83-8 du 7 janvier 1983, n° 83-1186 du 22 juillet 1983, n° 88-13 du 5 janvier 1988, n° 92-125 du 6 février 1992, n° 2004-809 du 13 août 2004, n° 2010-1563 du 16 décembre 2010, n° 2014-58 du 27 janvier 2014, n° 2015-991 du 7 août 2015, du 27 décembre 2019, n° 2022-217 du 21 février 2022 ; loi de finances pour 2018 (suppression de la taxe d'habitation) ; CGCT (art. L. 1411-3, L. 1612-4 et s.).
 
-**Jurisprudence** : Cons. const., décision n° 82-138 DC du 25 février 1982 (loi du 2 mars 1982) ; décisions du Conseil constitutionnel relatives à l'article 72-2 (autonomie financière) ; grandes décisions du Conseil d'État sur la libre administration et le contrôle de légalité (à compléter par une recherche ciblée).
+**Jurisprudence** : Cons. const., décision n° 82-138 DC du 25 février 1982 ; décisions du Conseil constitutionnel sur l'article 72-2 et la QPC ; grands arrêts du Conseil d'État sur la libre administration et le contrôle de légalité (Grands arrêts du Conseil d'État, Dalloz — à compléter par recherche ciblée).
 
-**Rapports** : rapports de la Cour des comptes sur la décentralisation et les finances locales ; rapports de la DGCL ; CESE.
+**Rapports** : Cour des comptes, rapports sur les finances des collectivités locales et la décentralisation ; DGCL ; CESE ; Sénat/Assemblée nationale (rapports d'information).
 
-*Règle appliquée : aucune référence inventée ; textes et décisions cités existent réellement et sont à vérifier (version consolidée, date) avant usage en copie.*
+**Ouvrages** : manuels de droit des collectivités territoriales (dernières éditions) ; Pierre Rosanvallon sur l'État et la société ; travaux de science politique sur la décentralisation (à compléter via Cairn/OpenEdition).
+
+*Règle appliquée : aucune référence inventée ; tous les textes et décisions cités existent réellement et doivent être vérifiés (version consolidée, date) avant usage en copie.*

@@ -345,6 +345,21 @@ def build_pdf(md_path, out_path):
             render_schema(pdf, tok.content)
             i += 1
             continue
+        if t == "fence" and "memo" in tok.info:
+            txt = tok.content.strip()
+            _ensure_space(pdf, 20)
+            y = pdf.get_y()
+            pdf.set_font("DejaVu", "", 9.5)
+            pdf.set_text_color(*INK)
+            pdf.set_fill_color(232, 239, 252)
+            pdf.set_x(pdf.l_margin + 5)
+            pdf.multi_cell(pdf.w - pdf.r_margin - pdf.l_margin - 5, 5.2, txt, fill=True, align="J", new_x="LMARGIN", new_y="NEXT")
+            pdf.set_draw_color(*BLUE_MED)
+            pdf.set_line_width(1.2)
+            pdf.line(pdf.l_margin + 1.5, y, pdf.l_margin + 1.5, pdf.get_y())
+            pdf.ln(2)
+            i += 1
+            continue
         if t == "hr":
             pdf.ln(2)
             pdf.set_draw_color(*RULE)
