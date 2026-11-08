@@ -11,7 +11,7 @@ auteur: "Module A — préparation IRA | Destinataire : Violette Drulang | Livra
 
 La décentralisation n'est pas un simple sujet d'organisation territoriale : c'est une question de **responsabilité**, de **financement** et de **légitimité démocratique**. Depuis 1982, des pans entiers de l'action publique ont été transférés de l'État à des collectivités élues, qui les exercent « librement » dans le cadre de la loi (art. 72 de la Constitution). Pour un futur attaché d'administration, maîtriser ce sujet, c'est savoir répondre à trois questions concrètes dans n'importe quel service : **qui décide, qui paie, qui contrôle ?** — trois fonctions désormais éclatées entre l'État et les collectivités.
 
-Ce cours est volontairement approfondi. Il présente d'abord le cadre constitutionnel (chapitre I), puis la genèse politique et législative de 1982-1988 (chapitre II), la répartition détaillée des compétences (chapitre III), l'autonomie financière et le contrôle (chapitre IV), les réformes de 2010 à 2022 et leurs controverses (chapitre V), la jurisprudence et le contentieux (chapitre VI), et se conclut par des synthèses mobilisables, des pistes d'analyse et une réponse orale type (chapitre VII).
+Ce cours est volontairement approfondi. Il présente d'abord le cadre constitutionnel (chapitre I), puis la genèse politique et législative de 1982-1988 (chapitre II), la répartition détaillée des compétences (chapitre III), l'autonomie financière et le contrôle (chapitre IV), les réformes de 2010 à 2022 et leurs controverses (chapitre V), la jurisprudence et le contentieux (chapitre VI), et se conclut par des synthèses mobilisables, des pistes d'analyse et une réponse orale type (chapitre X).
 
 ## Chapitre I — Le cadre constitutionnel : les articles 72 à 74 de la Constitution
 
@@ -211,7 +211,48 @@ POINT MÉMO — Le mouvement pendulaire. La décentralisation n'est pas un proce
 - Quels indicateurs objectifs pour juger de son succès ou de son échec (moyens des collectivités, qualité des services, inégalités territoriales) ?
 - La différenciation (3DS) est-elle la bonne réponse aux fractures territoriales, ou faut-il renforcer la péréquation ?
 
-## Chapitre VII — Jurisprudence et contentieux de la décentralisation
+
+## Chapitre VII — Mise en œuvre de la loi 3DS et différenciation (2022-2026)
+
+### 1. Genèse et contenu de la loi n° 2022-217 du 21 février 2022
+
+Adoptée définitivement les 8-9 février 2022 et promulguée le 21 février 2022, la loi **3DS** fait suite à la **loi organique n° 2021-467 du 19 avril 2021** relative à la simplification des expérimentations et s'inscrit dans la réponse au mouvement des Gilets jaunes et dans la continuité des conférences nationales des territoires lancées en 2017 (Sénat, 17 juillet 2017). Elle inscrit dans le CGCT (**art. L. 1111-3-1**) le principe de **différenciation territoriale** : une collectivité peut déroger à titre expérimental à une loi ou un règlement pour tenir compte de ses spécificités.
+
+### 2. Les expérimentations et transferts concrets
+
+- **Voirie** : à titre expérimental pour huit ans (art. 38), mise à disposition de régions volontaires de routes nationales non concédées, puis transferts effectifs (ex. : A68 en Occitanie, A501 dans les Bouches-du-Rhône, décisions de janvier 2023) — « parachèvement de la décentralisation de la voirie nationale » ;
+- **Eau** : transfert de la compétence aux EPCI au 1er janvier 2026 ;
+- **Logement** : contrats de mixité sociale conclus entre le maire et le préfet (modification de la loi SRU de 2000), poursuite de l'expérimentation de l'encadrement des loyers ;
+- **Territoires zéro non-recours (TZNR)** : expérimentation pour améliorer l'accès aux droits et prestations sociales ;
+- **Simplification** : facilitation de l'échange de données entre administrations, allègement des obligations déclaratives des élus locaux (HATVP), éoliennes et PLU.
+
+### 3. Bilan et débats en 2026
+
+Quatre ans après, le bilan est mitigé : la différenciation progresse par expérimentations ciblées (voirie, eau) mais reste encadrée ; les débats portent sur l'équilibre entre adaptation locale et égalité républicaine, et sur l'effectivité des expérimentations (sont-elles évaluées puis généralisées ou abandonnées ?).
+
+```memo
+POINT MÉMO — La 3DS en 2026. Trois apports à retenir : (1) différenciation inscrite au CGCT (art. L. 1111-3-1) avec dérogation expérimentale ; (2) transferts concrets : voirie nationale expérimentale aux régions, eau aux EPCI au 1er janvier 2026 ; (3) expérimentations sociales (TZNR). La loi 3DS ne supprime pas l'égalité : elle l'adapte, sous le contrôle du juge constitutionnel et administratif.
+```
+
+## Chapitre VIII — Cohésion territoriale : fractures et services essentiels (données 2026)
+
+### 1. Des inégalités territoriales documentées
+
+Le **rapport public annuel 2026 de la Cour des comptes** (25 mars 2026, « Cohésion territoriale et attractivité des territoires », 14 chapitres) dresse un constat chiffré : en 2023, le PIB par habitant allait de **69 288 € en Île-de-France à 32 652 € en Bourgogne-Franche-Comté** (écart de plus du double) ; **23 départements ont perdu des habitants entre 2015 et 2021** ; la France sera bénéficiaire de **16,8 Md€ de crédits européens** sur 2021-2027. L'enquête Familles rurales (octobre 2025) montre que **59 % des ruraux estiment leur territoire « abandonné »** et que 72 % jugent l'accès aux soins le plus dégradé.
+
+### 2. L'effort financier et ses limites
+
+Les collectivités injectent **316 Md€** dans les politiques territoriales, mais la Cour relève l'absence de bilan réel de ces dépenses et recommande de garantir un **« panier de services publics essentiels »** (santé, logement, éducation, numérique, transports, emploi, sécurité) et de passer d'une logique de dépense dispersée à une stratégie nationale cohérente. La mission budgétaire « Cohésion des territoires » de l'État représente 18,5 Md€, majoritairement absorbés par les aides au logement.
+
+### 3. Implications pour un cadre
+
+Pour un attaché en service déconcentré ou en collectivité, ces données justifient une approche territoriale de toute politique publique : cartographie des déserts, articulation État/collectivités, évaluation réelle des dispositifs (la Cour insiste sur l'absence de bilan).
+
+```schema
+Constat 2026 : fractures territoriales (PIB/hab, déserts médicaux, sentiment d'abandon) --> Rapport Cour des comptes RPA 2026 (25 mars 2026) --> Recommandation : panier de services essentiels + stratégie nationale --> Réponses : maisons France Services, télémédecine, contrats de mobilité, TZNR
+```
+
+## Chapitre IX — Jurisprudence et contentieux de la décentralisation
 
 ### 1. Le Conseil constitutionnel, juge de l'équilibre
 
@@ -227,7 +268,7 @@ Le Conseil d'État a dégagé la **libre administration** comme principe génér
 
 Les chambres régionales des comptes contrôlent les comptes et la gestion ; en cas d'irrégularité, le préfet peut procéder à l'inscription d'office au budget (art. L. 1612-5 et suivants du CGCT). La Cour des comptes publie des rapports réguliers sur les finances locales et la décentralisation, devenus des références pour évaluer le système.
 
-## Chapitre VIII — Synthèses mobilisables, pistes d'analyse et réponse orale type
+## Chapitre X — Synthèses mobilisables, pistes d'analyse et réponse orale type
 
 ### 1. Résumé synthétique (mobilisable tel quel en copie)
 
