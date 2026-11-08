@@ -178,7 +178,40 @@ La **loi du 27 décembre 2019** relative à l'engagement dans la vie locale et �
 
 **Transition.** Quel bilan juridique et contentieux tirer de quarante ans de décentralisation ? Chapitre VI.
 
-## Chapitre VI — Jurisprudence et contentieux de la décentralisation
+
+## Chapitre VI — Controverses, résistances et reculs : la décentralisation en débat
+
+### 1. Les résistances à la mise en œuvre
+
+La décentralisation de 1982 a heurté une **culture administrative centralisée**. Plusieurs résistances sont documentées : les ministères ont conservé des leviers informels sur les services déconcentrés (circulaires, conventions, financements fléchés) ; les préfets, privés de la tutelle a priori, ont parfois exercé un contrôle de fait ; les administrations centrales ont maintenu des compétences parallèles (ARS, rectorats, agences) qui limitent l'autonomie réelle des collectivités. La loi de 1988 (n° 88-13 du 5 janvier 1988) peut se lire comme un premier ajustement face à ces résistances.
+
+### 2. Les dynamiques nouvelles
+
+Malgré ces résistances, des dynamiques puissantes ont transformé le paysage : montée en puissance des **intercommunalités** (communautés de communes, urbaines, d'agglomération, métropoles), création des **conseillers territoriaux** (2010), conférences des financeurs, contractualisation (contrats de plan État-région). Les métropoles (MAPTAM 2014) et la fusion des régions (NOTRe 2015) illustrent la recherche permanente d'échelles pertinentes.
+
+### 3. Les reculs et les recentralisations
+
+Le mouvement n'est pas linéaire. Plusieurs épisodes de **recentralisation** sont identifiables : lois de sécurité et état d'urgence (art. 16 C58) qui recentralisent la gestion de l'ordre public ; gestion centralisée de la crise sanitaire en 2020-2021 ; débats récurrents sur la suppression du département ou le transfert de ses compétences (routes, collèges, formation professionnelle) vers les régions ; maintien de compétences étatiques fortes (police, justice, défense). La loi 3DS (2022) elle-même combine différenciation et renforcement de la déconcentration de l'État.
+
+### 4. Les grandes controverses contemporaines
+
+1. **Égalité républicaine vs différenciation territoriale** (art. 72 al. 3) : la différenciation est-elle une reconnaissance pragmatique des réalités ou une brèche dans l'unité de la République ?
+2. **Désengagement de l'État dans les territoires ruraux** : fermetures de services publics, déserts médicaux et administratifs, fracture numérique — la décentralisation a-t-elle transféré des problèmes sans les moyens de les résoudre ?
+3. **Coût et doublons** : la décentralisation a-t-elle créé des doublons coûteux entre services de l'État et services des collectivités ?
+4. **Démocratie locale** : taux de participation, proximité réelle des élus — la décentralisation a-t-elle démocratisé ou éloigné la décision ?
+5. **Dette et irresponsabilité financière** : certaines collectivités se sont endettées lourdement (emprunts structurés à risque) — le contrôle des CRC est-il suffisant ?
+
+```memo
+POINT MÉMO — Le mouvement pendulaire. La décentralisation n'est pas un processus linéaire : chaque avancée est suivie d'ajustements, de résistances ou de reculs (1988, lois de sécurité, crise sanitaire 2020, débats sur le département). Pour une copie, ne jamais présenter la décentralisation comme « achevée » : c'est un débat permanent entre autonomie locale et unité de la République.
+```
+
+### 5. Pistes d'analyse renforcées
+
+- La décentralisation a-t-elle produit plus de démocratie locale ou plus de technocratie intercommunale ?
+- Quels indicateurs objectifs pour juger de son succès ou de son échec (moyens des collectivités, qualité des services, inégalités territoriales) ?
+- La différenciation (3DS) est-elle la bonne réponse aux fractures territoriales, ou faut-il renforcer la péréquation ?
+
+## Chapitre VII — Jurisprudence et contentieux de la décentralisation
 
 ### 1. Le Conseil constitutionnel, juge de l'équilibre
 
@@ -194,7 +227,7 @@ Le Conseil d'État a dégagé la **libre administration** comme principe génér
 
 Les chambres régionales des comptes contrôlent les comptes et la gestion ; en cas d'irrégularité, le préfet peut procéder à l'inscription d'office au budget (art. L. 1612-5 et suivants du CGCT). La Cour des comptes publie des rapports réguliers sur les finances locales et la décentralisation, devenus des références pour évaluer le système.
 
-## Chapitre VII — Synthèses mobilisables, pistes d'analyse et réponse orale type
+## Chapitre VIII — Synthèses mobilisables, pistes d'analyse et réponse orale type
 
 ### 1. Résumé synthétique (mobilisable tel quel en copie)
 
