@@ -1,149 +1,184 @@
 ---
-titre: "Fiche spéciale — Les cinq controverses territoriales : analyse approfondie (supprimer un échelon, la commune, la différenciation, le désengagement de l'État, recentralisation)"
+titre: "Fiche spéciale — Cinq controverses territoriales : contextualisation, arguments pour/contre avec implications, conclusions"
 semaine: "2026-S46"
 periode: "du 09/11/2026 au 15/11/2026"
-auteur: "Module A — préparation IRA | Destinataire : Violette Drulang | Fiche spéciale organisation territoriale"
+auteur: "Module A — préparation IRA | Destinataire : Violette Drulang | Fiche spéciale organisation territoriale (version restructurée)"
 ---
 
-# Fiche spéciale — Cinq controverses territoriales décryptées
+# Fiche spéciale — Décentralisation et organisation territoriale : cinq questions de fond
 
-*Données et rapports cités datés novembre 2026 ; les références de rapports transmises par la préparation (RPA 2023 de la Cour des comptes, rapports du Sénat 2024 et 2025) sont à vérifier sur les sites officiels avant usage en copie.*
+*Références de rapports et chiffres datés novembre 2026 ; les références transmises par la préparation (Sénat 2023 « Avis de tempête », Sénat 2024 n° 629, rapport Woerth mai 2024, Défenseur des droits 2025) sont à vérifier sur les sites officiels avant usage en copie.*
 
-## Introduction : méthode et enjeu
+## Introduction : une interrogation commune
 
-Ces cinq questions — faut-il supprimer un échelon ? la commune est-elle encore pertinente ? la différenciation menace-t-elle l'égalité républicaine ? l'État s'est-il désengagé de certains territoires ? recentralisation réelle ou adaptation ? — ne sont pas des questions de cours mais des **problématiques de décision publique**. Une bonne copie ne répond pas oui ou non : elle identifie les conditions dans lesquelles une option produit les effets recherchés, les coûts qu'elle déplace et les contradictions qu'elle crée. C'est la capacité à raisonner en termes de conception, de mise en œuvre, de financement et d'évaluation qui distingue une réflexion administrative solide d'une prise de position.
+Ces cinq questions renvoient à une interrogation commune : **comment organiser la puissance publique pour concilier efficacité administrative, proximité démocratique et égalité des citoyens sur l'ensemble du territoire ?** Il faut éviter deux raisonnements trop simples : croire que la multiplication des collectivités explique à elle seule les dysfonctionnements, ou que la proximité garantit toujours l'efficacité. La vraie question est celle de **l'échelle pertinente de décision, de la répartition des responsabilités et des moyens dont disposent les acteurs publics**.
 
-Pour chaque controverse, cette fiche applique la même architecture : genèse et problématique ; état du droit ; état des lieux chiffré ; diagnostic institutionnel (Cour des comptes, CRC, inspections) ; arguments contradictoires en grille ; conditions de réussite et limites ; implications pour un cadre de l'État.
+Pour chaque question, cette fiche applique la même architecture : **A. contextualisation** (cadre, évolution, contexte, avec frise) ; **B. arguments pour** (avec implications) ; **C. arguments contre** (avec implications) ; **D. conclusion**.
 
 ```schema
-Constat chiffré (INSEE, ANCT, OFGL, DGCL) --> Diagnostic institutionnel (Cour des comptes, CRC, Sénat, IGA) --> État du droit (Constitution, CGCT, lois 1982-2022) --> Grille d'arguments contradictoires --> Scénarios et conditions de réussite --> Implications pour un cadre
+Contexte historique et données chiffrées (INSEE, DGCL, ANCT, OFGL) --> Cadre juridique (Constitution, lois 1982-2022) --> Diagnostic institutionnel (Cour des comptes, CRC, Sénat, IGA) --> Arguments POUR + implications --> Arguments CONTRE + implications --> Conclusion opérationnelle
 ```
 
 ## Controverse 1 — Faut-il supprimer un échelon territorial ?
 
-### 1. Problématique et genèse
+### A. Contextualisation : le millefeuille territorial
 
-Le « millefeuille territorial » — communes, EPCI, départements, régions, services déconcentrés de l'État — est dénoncé depuis des décennies pour son coût, sa lenteur et l'illisibilité des responsabilités. La question n'est pas de supprimer une couche abstraite : supprimer une collectivité, supprimer un niveau de décision et mutualiser des services sont **trois opérations différentes**, aux effets juridiques et financiers distincts. Toute suppression suppose un transfert ordonné des compétences, des agents, des ressources et des responsabilités politiques.
+L'organisation territoriale française repose sur plusieurs niveaux — commune, intercommunalité (EPCI), département, région, État territorial (préfet, services déconcentrés) — auxquels s'ajoutent syndicats intercommunaux, syndicats mixtes, établissements publics, agences et opérateurs. Cette organisation est le fruit d'une construction historique progressive :
 
-### 2. État du droit et données
+| Date | Transformation |
+|---|---|
+| 1789-1790 | Création des départements et des communes |
+| 1982-1983 | Acte I de la décentralisation : transferts de compétences, fin de la tutelle a priori |
+| 1992 | Loi ATR : développement de l'intercommunalité |
+| 1999 | Loi Chevènement : structuration des communautés de communes, d'agglomération, urbaines |
+| 2003 | Constitutionnalisation de l'organisation décentralisée (art. 72 à 74) |
+| 2010 | Réforme des collectivités territoriales (conseillers territoriaux) |
+| 2014 | Loi MAPTAM : affirmation des métropoles |
+| 2015 | Loi NOTRe : renforcement des régions, rationalisation de la carte intercommunale |
+| 2022 | Loi 3DS : différenciation, déconcentration, simplification |
 
-Le cadre est fixé par la Constitution (art. 72 à 74) et le CGCT ; les grandes lois (1982-1983, 2010, MAPTAM 2014, NOTRe 2015, 3DS 2022) ont clarifié sans supprimer d'échelon. Les données à mobiliser : nombre de communes (~35 000), d'EPCI, de départements (101) et régions (18 dont outre-mer) — statistiques DGCL ; dépenses de fonctionnement et coûts de gestion par niveau — OFGL et rapports des CRC ; effectifs de la fonction publique territoriale — CNFPT ; délais de décision et qualité de service — rapports des CRC et de la Cour des comptes.
+Le problème n'est donc pas seulement le nombre de collectivités : c'est **l'empilement des compétences, des structures et des circuits de financement**. Le RPA 2023 de la Cour des comptes (« La décentralisation, 40 ans après : un élan à retrouver ») diagnostique ce millefeuille et des responsabilités insuffisamment identifiables, appelant à un État plus partenaire et coordonnateur.
 
-### 3. Diagnostic institutionnel
+### B. Arguments POUR la suppression d'un échelon (avec implications)
 
-Le **rapport public annuel 2023 de la Cour des comptes** (« La décentralisation, 40 ans après : un élan à retrouver ») pose le diagnostic du millefeuille, de l'enchevêtrement des compétences et de responsabilités insuffisamment identifiables, et appelle à un État davantage **partenaire et coordonnateur** dans les territoires. Les rapports du Sénat de la délégation aux collectivités territoriales documentent les propositions de réforme (à vérifier : rapport 2025 « Un nouvel acte de décentralisation »).
+1. **Lisibilité démocratique** : quand plusieurs collectivités interviennent dans une même politique (ex. mobilité : région pour les transports régionaux, EPCI pour les mobilités locales, communes pour les aménagements), le citoyen identifie mal le responsable — la responsabilité politique se dilue. *Implication* : une clarification des compétences restaure la responsabilité devant les électeurs.
+2. **Rationalisation administrative** : doublons de services, procédures de coordination, coûts de fonctionnement, délais de décision, dispersion de l'expertise. *Implication* : concentrer certaines compétences permet des économies d'échelle et une mutualisation des moyens humains et financiers.
+3. **Adéquation compétence/territoire** : pollution, mobilité domicile-travail, gestion de l'eau, développement économique dépassent les frontières administratives ; une échelle trop réduite est inefficace. *Implication* : confier ces sujets à un niveau supérieur améliore l'efficacité, même au prix d'une moindre proximité.
 
-### 4. Grille d'arguments
+### C. Arguments CONTRE (avec implications)
 
-| Option | Arguments favorables | Arguments contraires | Conditions de réussite |
-|---|---|---|---|
-| Supprimer un échelon (souvent le département) | Lisibilité, rationalisation, économies de gestion | Perte de proximité, coûts de transition, transfert de charges | Répartition claire et financée des compétences ; maintien d'un échelon de proximité |
-| Garder 4 niveaux | Représentation adaptée à la diversité des territoires | Coûts, lenteur, dilution des responsabilités | Mutualisations effectives et évaluées |
-| Mutualiser sans supprimer | Économies sans rupture démocratique | Lisibilité démocratique moindre | Gouvernance intercommunale transparente |
+1. **La proximité est une ressource démocratique et administrative** : la commune connaît ses habitants, associations, entreprises ; cette connaissance n'est pas reproductible à un échelon supérieur. *Implication* : supprimer un échelon de proximité fragilise la démocratie locale et la médiation avec l'État.
+2. **Les territoires n'ont pas les mêmes capacités** : une métropole dispose d'une ingénierie importante, pas une petite commune rurale. *Implication* : la suppression peut concentrer les capacités d'action dans les grands pôles urbains et aggraver les inégalités territoriales.
+3. **La suppression ne supprime pas les missions** : il faut transférer compétences, personnels, actifs, dettes, recettes ; les coûts de transition peuvent être élevés, et la concentration peut créer des coûts d'éloignement et de coordination. *Implication* : toute réforme doit chiffrer les transferts avant d'annoncer des économies.
 
-### 5. Implications pour un cadre
+### D. Conclusion
 
-Ne jamais présenter la suppression comme automatique : exiger un chiffrage des transferts (compétences, personnels, dettes, ressources) et une évaluation des effets sur l'accès aux services.
+La question pertinente n'est pas « faut-il supprimer un échelon ? » mais « faut-il maintenir partout la même architecture, indépendamment des besoins et des capacités ? ». Il faut distinguer suppression d'un niveau, clarification des compétences, mutualisation, fusion de collectivités, rationalisation des établissements publics — cinq opérations aux effets différents. La piste privilégiée : **spécialisation des responsabilités et mutualisation des moyens plutôt que suppression uniforme**, à condition de rendre les responsabilités politiques et financières identifiables.
 
 ```memo
-POINT MÉMO — Supprimer un échelon. Trois opérations distinctes : supprimer une collectivité / supprimer un niveau de décision / mutualiser des services. Aucune réforme crédible sans transfert chiffré des compétences, agents, ressources et responsabilités.
+POINT MÉMO — Millefeuille. Le problème = empilement des compétences, structures et financements, pas seulement le nombre de collectivités. Toute suppression exige un transfert chiffré (compétences, agents, dettes, recettes).
 ```
 
 ## Controverse 2 — La commune est-elle encore pertinente ?
 
-### 1. Problématique
+### A. Contextualisation : une institution historiquement centrale
 
-La commune est à la fois l'institution politique de proximité (démocratie locale, maire élu) et une unité de gestion souvent trop petite pour exercer des compétences techniques (urbanisme, eau, déchets). L'intercommunalité obligatoire (loi NOTRe 2015 : seuil de 15 000 habitants) a transféré l'essentiel de la gestion vers les EPCI et métropoles. La tension : la commune reste le lieu de la participation citoyenne, mais les bassins de vie dépassent ses limites.
+Créée en 1789-1790 à partir des anciennes paroisses, la commune est le premier échelon de la démocratie représentative territoriale. Trois caractéristiques : conseil municipal élu directement, maire à la fois exécutif local et agent de l'État (état civil, police judiciaire), personnalité juridique et budget propres. La mairie cumule fonction politique, administrative et symbolique. Il existe environ **35 000 communes** en France — une fragmentation exceptionnelle à l'échelle européenne — mais beaucoup exercent leurs compétences en coopération avec les intercommunalités.
 
-### 2. Données et diagnostic
+### B. Arguments POUR la préservation de la commune (avec implications)
 
-Données INSEE (démographie, densité, polarisation), DGCL (nombre de communes, budgets, organisation intercommunale), études de l'AMF (Association des maires de France), de l'AMRF (maires ruraux) et d'Intercommunalités de France. Trois dimensions à examiner : **démocratique** (participation, responsabilité des élus), **administrative** (ressources humaines et techniques des petites communes), **fonctionnelle** (adéquation des limites communales aux bassins de vie). Point clé : l'intercommunalité améliore les capacités d'action sans nécessairement améliorer la lisibilité démocratique — le citoyen peine à identifier qui décide, qui finance, qui est responsable.
+1. **Le maire, intermédiaire essentiel entre l'État et les citoyens**, premier interlocuteur, médiateur administratif surtout en zone rurale. *Implication* : préserver ce relais maintient l'accessibilité de l'administration.
+2. **Démocratie incarnée** : proximité = connaissance des besoins, participation, interpellation des élus, reddition de comptes facilitée. *Implication* : la commune est le lieu où la démocratie se vit concrètement.
+3. **Relais territorial de l'État** (état civil, police judiciaire) et **facteur de cohésion territoriale** : dans les territoires ruraux, souvent dernier lieu institutionnel accessible quand d'autres services ont disparu. *Implication* : la commune ancre la présence publique là où l'État s'est retiré physiquement.
 
-```memo
-POINT MÉMO — La commune. Institution de proximité démocratique, mais unité de gestion souvent trop petite. La question n'est pas de la supprimer mais de distinguer décision politique (commune) et gestion technique (EPCI/métropole), tout en préservant la lisibilité démocratique.
-```
+### C. Arguments CONTRE / fragilisation (avec implications)
+
+1. **Inadaptation des limites aux réalités contemporaines** : bassins de vie, déplacements, consommation, scolarisation dépassent la commune. *Implication* : la commune n'est pas l'échelle fonctionnelle pertinente pour de nombreuses politiques.
+2. **Capacités administratives inégales** : difficultés de recrutement, inflation normative, accès aux financements pèsent sur les petites communes. Le Sénat (rapport juillet 2023, « Avis de tempête sur la démocratie locale : soignons le mal des maires » — à vérifier) relève complexification, insuffisance des moyens, concurrence intercommunale, affaiblissement de l'accompagnement de l'État territorial. *Implication* : sans mutualisation, les petites communes perdent en capacité d'action.
+3. **Montée de l'intercommunalité** : compétences structurantes (développement économique, déchets, eau, mobilité) transférées aux EPCI — mutualisation efficace, mais lisibilité démocratique moindre (qui décide ? qui finance ?). *Implication* : risque que l'EPCI dépossède la commune de son initiative.
+
+### D. Conclusion
+
+La commune conserve une **pertinence démocratique et politique forte**, mais sa pertinence opérationnelle varie selon les compétences et les territoires. Distinguer deux fonctions : commune = espace de représentation et de proximité ; intercommunalité = espace de mutualisation et de gestion. L'enjeu : faire de l'intercommunalité un **instrument au service des communes**, pas un niveau qui les vide de leur capacité d'action.
 
 ## Controverse 3 — La différenciation menace-t-elle l'égalité républicaine ?
 
-### 1. Problématique juridique
+### A. Contextualisation : l'unité de la République en tension
 
-L'article 72, alinéa 3 (révision 2003) et la loi 3DS (art. L. 1111-3-1 CGCT) permettent la différenciation et l'expérimentation. La question juridique centrale : l'adaptation des normes aux territoires réalise-t-elle l'égalité réelle ou fragmente-t-elle le cadre républicain (art. 1er : République indivisible) ? Il faut distinguer égalité et uniformité : appliquer une règle identique à des situations différentes ne garantit pas l'égalité effective d'accès aux services.
+Le modèle républicain français s'est construit sur l'unité nationale, l'indivisibilité et l'égalité devant la loi. Pourtant les territoires présentent des situations très différentes (métropole vs rural, littoral vs montagne, outre-mer, territoires vieillissants) : une politique uniforme produit des résultats inégaux. D'où le développement progressif de la différenciation. **Cadre constitutionnel** : art. 1er (République indivisible, organisation décentralisée) ; art. 72 (libre administration, décisions au mieux à l'échelon concerné, expérimentations) ; art. 72-2 (ressources et autonomie financière) ; art. 73 (adaptations outre-mer). La loi 3DS (2022) a inscrit la différenciation au CGCT (art. L. 1111-3-1).
 
-### 2. Corpus prioritaire
+### B. Arguments POUR la différenciation (avec implications)
 
-Conseil constitutionnel (jurisprudence égalité, libre administration, unité de la République, expérimentation) ; Conseil d'État (études sur la différenciation) ; **rapport du Sénat 2024 « Différenciation : la diversité des territoires dans l'unité de la République »** (rapport n° 629, 2023-2024 — référence transmise, à vérifier sur senat.fr) ; Légifrance (loi 3DS, Constitution) ; Vie-publique.fr. Notions à maîtriser : égalité devant la loi et différences de situation ; unité et indivisibilité ; libre administration ; différenciation des compétences vs différenciation normative ; expérimentation ; péréquation financière. Exemples : Corse, Collectivité européenne d'Alsace, métropole de Lyon, outre-mer (art. 73).
+1. **L'égalité réelle ne suppose pas l'uniformité** : traiter différemment des situations différentes est licite si la distinction est objectivement justifiée et en rapport avec l'objet de la norme (logique classique du juge constitutionnel). *Implication* : une même règle partout peut être inéquitable ; l'adapter peut réaliser l'égalité réelle (ex. mobilité en métropole vs rural).
+2. **Efficacité et innovation** : confier des compétences à des collectivités aux caractéristiques particulières, expérimenter avant de généraliser. *Implication* : la différenciation devient un laboratoire de politiques publiques.
+3. **Prise en compte des particularités** : Corse, outre-mer, Collectivité européenne d'Alsace, métropole de Lyon illustrent les demandes d'adaptation. *Implication* : reconnaître la diversité des territoires sans remettre en cause l'unité.
 
-### 3. Grille d'arguments
+### C. Arguments CONTRE (avec implications)
 
-| Position | Arguments | Contre-arguments | Garanties |
-|---|---|---|---|
-| Différencier | Adaptation aux réalités, efficacité, expérimentation | Risque d'inégalité de droits et de moyens selon le lieu de résidence | Contrôle du juge constitutionnel, péréquation (art. 72-2), encadrement par la loi |
-| Uniformité stricte | Égalité formelle, unité républicaine | Inadaptation aux territoires, inefficacité | — |
+1. **Risque de fragmentation normative** : règles différentes selon les territoires = lisibilité du droit dégradée pour citoyens, entreprises, administrations. *Implication* : la différenciation doit rester exceptionnelle et encadrée.
+2. **Risque d'inégalité des droits selon le lieu de résidence** : distinguer adaptation des modalités et remise en cause du socle commun de droits. *Implication* : un socle de garanties identique partout est indispensable.
+3. **Risque de différenciation à deux vitesses** : les collectivités les mieux dotées négocient mieux avec l'État. *Implication* : la péréquation financière (art. 72-2) est le contrepoids nécessaire.
+4. **Risque de concurrence territoriale** (fiscalité, attractivité). *Implication* : encadrement par la loi et le contrôle de légalité.
 
-**Enjeu intellectuel** : la différenciation peut aussi bien réaliser l'égalité réelle (adapter pour garantir le même accès) que la menacer (des droits différents selon les territoires). Les garanties constitutionnelles (art. 1er, égalité) et financières (péréquation) sont les garde-fous.
+Le **rapport du Sénat 2024 (n° 629, « Différenciation : la diversité des territoires dans l'unité de la République »** — à vérifier) dresse le bilan de la loi 3DS et recommande : meilleur accompagnement des demandes, réponse obligatoire et motivée de l'État sous 6 mois, révision éventuelle de l'article 72. Ce sont des recommandations parlementaires, pas le droit en vigueur.
+
+### D. Conclusion
+
+La différenciation n'est pas intrinsèquement contraire à l'égalité républicaine : elle peut même la réaliser, à condition de garanties — **socle commun de droits, contrôle du principe d'égalité, péréquation, contrôle de légalité, transparence**. Passer d'une République uniforme à une République garantissant l'égalité par des modalités adaptées : la diversité des moyens ne doit pas devenir diversité injustifiée des droits.
 
 ```memo
-POINT MÉMO — Différenciation vs égalité. Ne pas confondre uniformité et égalité. La différenciation est encadrée : art. 1er (unité), art. 72 al. 3 (expérimentation), art. 72-2 (péréquation), contrôle du juge constitutionnel et administratif.
+POINT MÉMO — Différenciation. 4 garde-fous : art. 1er (unité), socle commun de droits, péréquation (art. 72-2), contrôle du juge constitutionnel/administratif. Ne pas confondre égalité et uniformité.
 ```
 
 ## Controverse 4 — L'État s'est-il désengagé de certains territoires ?
 
-### 1. Problématique
+### A. Contextualisation : la présence territoriale de l'État
 
-Le transfert de compétences aux collectivités et la transformation du réseau territorial de l'État (réforme de l'ATE, DDI, fermetures de guichets) ont-ils réduit la capacité de l'État à garantir la cohésion et l'égalité d'accès aux services publics ? Sortir des seules déclarations politiques : croiser les données.
+Distinction fondamentale : l'État peut rester **juridiquement responsable** d'une politique tout en étant moins présent **physiquement**. Il faut distinguer retrait de l'État et transformation de ses modalités d'intervention, et examiner séparément présence immobilière, effectifs, crédits, compétences et capacité d'intervention.
 
-### 2. Données à mobiliser (distinction essentielle)
+### B. Arguments : un retrait réel mais partiel (avec implications)
 
-Le retrait physique d'un service n'implique pas un retrait juridique ou financier de l'État : examiner séparément **présence immobilière, effectifs, crédits, compétences, capacité d'intervention**. Sources : Observatoire des territoires (ANCT) — accessibilité des services, fractures spatiales ; INSEE — densité médicale, démographie, équipements ; Cour des comptes — organisation territoriale de l'État (RPA 2026, 25 mars 2026 : 23 départements en déclin démographique 2015-2021, 59 % des ruraux se sentant « abandonnés » selon l'enquête Familles rurales d'octobre 2025) ; Défenseur des droits — accès aux droits et dématérialisation ; DREES — offre de soins ; ministère de l'Intérieur — réseau préfectoral ; ministère de la Justice — carte judiciaire ; data.gouv.fr — implantation des services publics. Indicateurs : évolution du nombre de sous-préfectures, trésoreries, postes, établissements de santé ; temps d'accès aux services ; part des démarches dématérialisées ; effectifs de l'État par département ; nombre et fréquentation des maisons France Services.
+1. **Rationalisation du réseau des services publics** : réorganisation des trésoreries, carte judiciaire, restructurations hospitalières, fermetures de bureaux de poste, concentration des services déconcentrés — logique de coûts et de modernisation, mais éloignement pour les usagers. *Implication* : mesurer le temps d'accès aux services, pas seulement le nombre d'implantations.
+2. **Dématérialisation** : la présence numérique ne remplace pas la présence physique pour les usagers peu autonomes. Le **Défenseur des droits (rapport annuel 2025)** relève que 61 % des personnes interrogées déclarent des difficultés pour leurs démarches en 2024, contre 39 % en 2016 (chiffres à vérifier). *Implication* : la fracture numérique aggrave les inégalités d'accès aux droits.
+3. **Accumulation des difficultés territoriales** : soins, transports, éducation, services administratifs ; inégalités non seulement économiques mais en temps d'accès à un droit. *Implication* : le lieu de résidence ne doit pas devenir un obstacle disproportionné (égalité devant le service public).
 
-### 3. Diagnostic
+Données : INSEE (densité médicale, démographie, équipements), Observatoire des territoires (ANCT), Cour des comptes (RPA 2026 : 23 départements en déclin démographique 2015-2021 ; 59 % des ruraux se sentant « abandonnés », enquête Familles rurales oct. 2025), DREES (offre de soins), ministère de l'Intérieur (réseau préfectoral), ministère de la Justice (carte judiciaire), data.gouv.fr. Indicateurs : évolution des sous-préfectures, trésoreries, postes, hôpitaux ; temps d'accès ; part des démarches dématérialisées ; effectifs de l'État par département ; maisons France Services et fréquentation.
 
-Le RPA 2026 recommande un **« panier de services publics essentiels »** garanti dans tous les territoires et une stratégie nationale cohérente plutôt qu'une dépense dispersée ; les collectivités injectent 316 Md€ dans les politiques territoriales sans bilan consolidé. Pour un cadre : distinguer présence de l'État (préfet, services déconcentrés, opérateurs) et présence des services publics (dont ceux des collectivités).
+### C. Arguments : l'État n'a pas disparu (avec implications)
+
+1. **Contrainte budgétaire et modernisation** : rationaliser des implantations coûteuses, mutualiser les fonctions support. *Implication* : la transformation est justifiée économiquement mais doit être accompagnée.
+2. **La décentralisation** : des missions transférées aux collectivités expliquent une moindre présence étatique sans retrait de la puissance publique. *Implication* : distinguer retrait de l'État et substitution d'un autre acteur public.
+3. **Des politiques de réinvestissement territorial** : programme **France Services** (créé en 2019), renforcement du préfet (coordination), **ANCT** (créée en 2020), **Action cœur de ville** et **Petites villes de demain**. *Implication* : l'État réorganise sa présence plutôt qu'il ne se retire — mais sans revenir à l'implantation antérieure.
+
+### D. Conclusion
+
+Il existe des phénomènes de retrait physique, à évaluer **secteur par secteur**, sans les présenter comme uniformes. La bonne question : non pas « combien d'implantations ? » mais effectifs présents, moyens d'intervention, délais d'accès, qualité de l'accompagnement, capacité de coordination des préfets. L'enjeu : passer d'une présence uniforme à une **présence adaptée aux besoins**, en garantissant qu'aucun citoyen ne soit privé d'un accès effectif à ses droits du fait de son lieu de résidence.
 
 ```cle
-RÉPONSE ORALE TYPE (3-5 min) — « L'État s'est-il désengagé des territoires ruraux ? » : il y a un retrait physique réel de certains guichets, mais pas de retrait juridique : l'État conserve la compétence générale, le contrôle de légalité et le financement. La question pertinente est celle de l'effectivité : accès effectif aux services (temps de trajet, densité médicale, numérique) et capacité des collectivités à assumer leurs compétences. Réponse nuancée : désengagement partiel et inégal selon les territoires, d'où les dispositifs de réimplantation (maisons France Services, télémédecine).
+RÉPONSE ORALE TYPE (3-5 min) — « L'État s'est-il désengagé des territoires ruraux ? » : retrait physique réel de certains guichets, mais pas de retrait juridique (compétence générale, contrôle de légalité, financement maintenus). La question pertinente est l'effectivité de l'accès aux services (temps de trajet, densité médicale, numérique) et la capacité des collectivités. Réponse : désengagement partiel et inégal selon les territoires, d'où France Services, télémédecine, programmes de revitalisation.
 ```
 
 ## Controverse 5 — Recentralisation réelle ou adaptation ?
 
-### 1. Problématique
+### A. Contextualisation : la recomposition des rapports État/collectivités
 
-Assiste-t-on à un retour du pouvoir central ou à une recomposition des relations État/collectivités ? Six mécanismes à documenter : (1) **recentralisation financière** (baisse de la fiscalité locale autonome, poids des dotations — ex. suppression de la taxe d'habitation compensée par l'État ; prélèvements DILICO) ; (2) **recentralisation normative** (l'État fixe objectifs et standards) ; (3) **recentralisation opérationnelle** (reprise en main : sécurité, crise sanitaire 2020) ; (4) **déconcentration renforcée** (préfets de région, DDI) ; (5) **contractualisation** (contrats État-région, conférences des financeurs) ; (6) **différenciation** (3DS). Distinction féconde : la décentralisation des compétences n'implique pas la décentralisation du pouvoir financier ou normatif — une collectivité peut mettre en œuvre une politique tout en dépendant de l'État pour ses ressources et ses normes.
+Apparente contradiction : depuis 1982, la France s'est décentralisée, pourtant l'État garde une influence considérable sur les politiques locales. Il faut distinguer plusieurs formes de pouvoir : décentralisation des compétences ≠ décentralisation du pouvoir financier ou normatif.
 
-### 2. Sources
+### B. Arguments : des signes de recentralisation (avec implications)
 
-Cour des comptes (finances locales 2026, 9 juillet 2026 : DILICO 1 Md€ en 2025 → 740 M€ en 2026, extinction recommandée en 2027 ; contribution des collectivités ~5,3 Md€ en 2026) ; OFGL (évolution des recettes et dotations) ; DGCL ; direction du Budget (lois de finances) ; Sénat ; Conseil d'État (rapports sur l'État territorial) ; France Stratégie.
+1. **Recentralisation financière** : pas de souveraineté fiscale des collectivités (art. 72-2 garantit l'autonomie financière, pas un pouvoir fiscal illimité — distinction de la DGCL) ; suppression de la taxe d'habitation (résidences principales) et de la CVAE, compensées par l'État ; prélèvements sur les recettes locales (DILICO). *Implication* : les ressources locales dépendent de plus en plus de règles nationales.
+2. **Recentralisation normative** : l'État fixe la loi et les standards ; les collectivités exécutent dans un cadre national (ex. action sociale). *Implication* : décentralisation de l'exécution sans décentralisation de la définition des règles.
+3. **Recentralisation opérationnelle** : reprise en main de certaines politiques (sécurité, crise sanitaire 2020), objectifs nationaux, contractualisation conditionnelle, contrôles renforcés. *Implication* : le pilotage national progresse sur l'exécution.
 
-```memo
-POINT MÉMO — Recentralisation. Le mouvement est pendulaire (décentralisation 1982 → ajustements → recentralisations sectorielles : sécurité, crise sanitaire). La décentralisation des compétences coexiste avec une centralisation financière et normative croissante. Ne pas conclure à un « retour en arrière » global : parler de recomposition.
-```
+Données : OFGL (recettes, dotations, fiscalité), DGCL (« Collectivités locales en chiffres », édition 2025 : fiscalité locale, transferts, concours financiers), Cour des comptes (finances locales 2026 : DILICO 1 Md€ en 2025 → 740 M€ en 2026, extinction recommandée en 2027 ; contribution 2026 ~5,3 Md€), direction du Budget.
 
-## Synthèse transversale et méthode de copie
+### C. Arguments : il s'agit surtout d'adaptation (avec implications)
 
-### Ordre de lecture prioritaire (5 documents)
+1. **La déconcentration** : renforcer le préfet, rapproche l'État des territoires sans renforcer seulement le centre. *Implication* : c'est de la coordination territoriale, pas un retour en arrière.
+2. **La contractualisation** : contrats de plan État-région, contrats de relance et de transition écologique, contrats de ville — gouvernance partenariale, même si l'État conditionne parfois les financements. *Implication* : des relations négociées, pas une tutelle retrouvée.
+3. **La différenciation (3DS)** : adapte l'action aux territoires. *Implication* : plus de décentralisation flexible, mais aussi recomposition des rapports.
 
-1. **Cour des comptes, RPA 2023 — « La décentralisation, 40 ans après : un élan à retrouver »** (diagnostic institutionnel, millefeuille, rôle de l'État) ;
-2. **Sénat, rapport 2024 — « Différenciation : la diversité des territoires dans l'unité de la République »** (rapport n° 629, 2023-2024, à vérifier) ;
-3. **OFGL, rapport sur les finances locales 2026** (objectiver les relations financières État/collectivités) ;
-4. **ANCT — Observatoire des territoires** (cartographier les inégalités et la présence des services) ;
-5. **Sénat, rapport 2025 — « Un nouvel acte de décentralisation »** (propositions contemporaines, à vérifier).
+Le **rapport Woerth (mai 2024, « Décentralisation : le temps de la confiance »** — 51 propositions : clarification des compétences, financement cohérent, exercice des mandats — à vérifier) défend une nouvelle organisation des relations État/collectivités plutôt qu'une suppression mécanique d'un échelon.
 
-### Grille d'analyse type pour une copie
+### D. Conclusion
 
-| Question | Argument favorable | Argument contraire | Condition de réussite |
-|---|---|---|---|
-| Supprimer un échelon | Lisibilité, rationalisation | Perte de proximité, coûts de transition | Répartition claire et financée des compétences |
-| Préserver la commune | Démocratie de proximité | Fragmentation des capacités | Mutualisation adaptée et transparente |
-| Différencier | Adaptation, efficacité | Risque de fragmentation de l'égalité | Garanties constitutionnelles + péréquation |
-| Réimplanter l'État | Cohésion, égalité d'accès | Coûts, rigidité | Présence adaptée aux besoins réels |
-| Recentrer | Cohérence nationale | Affaiblissement de l'autonomie | Articulation pilotage national / exécution locale |
+Pas de recentralisation générale et uniforme : une **recomposition**. Les collectivités ont des responsabilités importantes ; l'État garde la maîtrise du cadre normatif ; les ressources locales restent encadrées nationalement ; les préfets coordonnent ; contractualisation et différenciation complexifient les rapports. La question utile : l'État conserve-t-il une capacité stratégique suffisante tout en laissant aux collectivités une vraie liberté d'action ? Point fondamental : on peut décentraliser la responsabilité sans décentraliser dans les mêmes proportions les moyens de décision.
 
-### Doctrine à mobiliser
+## Synthèse transversale
 
-Croiser droit public, science politique et sociologie de l'action publique : Jacques Caillosse (transformations de l'État), Pierre Sadran (institutions territoriales), Alain Faure (gouvernement des territoires), Renaud Epstein (gouvernement à distance), Patrick Le Galès (gouvernance territoriale), Pierre Rosanvallon (État, égalité, crise de la représentation), Jean-Bernard Auby (droit des collectivités). Ressources : Cairn.info, Persée, HAL, theses.fr, Jus Politicum, Revue générale du droit.
+| Tension | Problème de fond |
+|---|---|
+| Efficacité / proximité | Quelle échelle pertinente pour exercer une compétence ? |
+| Unité / différenciation | Comment adapter sans fragmenter les droits ? |
+| Décentralisation / cohérence nationale | Comment partager les responsabilités sans diluer la puissance publique ? |
+| Rationalisation / égalité territoriale | Comment maîtriser les dépenses sans dégrader l'accès aux services ? |
 
-### Sources juridiques à maîtriser
+**Cinq réponses à retenir** : (1) supprimer un échelon : pas nécessairement — clarifier compétences, financements, responsabilités ; (2) la commune : oui, comme institution démocratique, avec mutualisation ; (3) la différenciation : pas par principe, si socle commun, péréquation et garanties ; (4) désengagement de l'État : retrait physique partiel, à mesurer à l'aune de l'accès effectif aux droits ; (5) recentralisation : plutôt recomposition, les deux dynamiques coexistant selon les domaines.
 
-Art. 1er, 72, 72-1, 72-2, 72 al. 3, 73, 74 C58 ; loi du 2 mars 1982 ; loi du 7 janvier 1983 ; loi MAPTAM (27 janvier 2014) ; loi NOTRe (7 août 2015) ; loi 3DS (21 février 2022) ; CGCT (art. L. 1111-3-1) ; Conseil constitutionnel et Conseil d'État (décisions et études à vérifier sur leurs sites).
+### Problématique générale pour une dissertation ou un oral IRA
 
-*Règle appliquée : aucune référence inventée ; les rapports cités par la préparation (Sénat 2024 n° 629, Sénat 2025, RPA 2023) sont des références réelles à vérifier (numéro, date exacte) sur les sites officiels avant usage en copie.*
+*« Dans quelle mesure la recomposition de l'organisation territoriale française permet-elle de concilier l'exigence d'efficacité de l'action publique, la libre administration des collectivités territoriales et la garantie de l'égalité républicaine ? »* — plan en deux temps : I. une organisation confrontée à des difficultés structurelles (enchevêtrement, inadaptation des échelles, disparités de capacités, éloignement des services, tensions autonomie/cohésion) ; II. la recherche d'un nouvel équilibre (clarification et responsabilisation, mutualisation, adaptation différenciée, renforcement de l'État territorial coordonnateur, égalité garantie par la solidarité financière et l'accès effectif aux services).
+
+**Grille de lecture ultime** : la décentralisation n'est pas un retrait de l'État mais une transformation de ses modalités d'intervention. La question est : qui décide, qui finance, qui exécute, qui contrôle, qui rend compte ?
+
+*Règle appliquée : aucune référence inventée ; les rapports et chiffres transmis ou cités sont datés et à vérifier sur les sites officiels (ccomptes.fr, senat.fr, assemblee-nationale.fr, insee.fr, anct.gouv.fr, ofgl, defenseurdesdroits.fr, vie-publique.fr) avant usage en copie.*
