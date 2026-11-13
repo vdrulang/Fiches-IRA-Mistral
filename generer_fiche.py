@@ -245,6 +245,139 @@ def render_schema(pdf, content):
         pdf.ln(2)
 
 
+def _shade(rgb, f):
+    return tuple(max(0, min(255, int(c + (255 - c) * f))) for c in rgb)
+
+
+def _wrap_text(pdf, text, max_w, size):
+    import math
+    pdf.set_font("DejaVu", "", size)
+    words = text.split()
+    lines, cur = [], ""
+    for w in words:
+        t = (cur + " " + w).strip()
+        if pdf.get_string_width(t) <= max_w:
+            cur = t
+        else:
+            if cur:
+                lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
+    return lines or [""]
+
+
+def _parse_tree(content):
+    lines = [l for l in content.strip().splitlines() if l.strip()]
+    root = lines[0].strip().lstrip('- ').strip()
+    nodes = []
+    for l in lines[1:]:
+        lvl = (len(l) - len(l.lstrip())) // 2
+        nodes.append((lvl, l.strip().lstrip('- ').strip()))
+    return root, nodes
+
+
+def _build_tree(root, nodes):
+    root_node = {"label": root, "children": []}
+    stack = [(-1, root_node)]
+    for lvl, label in nodes:
+        node = {"label": label, "children": []}
+        while stack and stack[-1][0] >= lvl:
+            stack.pop()
+        stack[-1][1]["children"].append(node)
+        stack.append((lvl, node))
+    return root_node
+
+
+def _count_leaves(node):
+    if not node["children"]:
+        return 1
+    return sum(_count_leaves(c) for c in node["children"])
+
+
+def _weight(node):
+    w = _count_leaves(node) + len(node["label"]) / 30.0
+    for c in node["children"]:
+        w += _weight(c) * 0.6
+    return w
+
+
+def render_mindmap(pdf, content):
+    import math
+    root, nodes = _parse_tree(content)
+    tree = _build_tree(root, nodes)
+    W, H = pdf.w, pdf.h
+    cx, cy = W / 2, H / 2 + 4
+    branches = tree["children"]
+    total = sum(_weight(b) for b in branches) or 1
+    r0, dr = min(W, H) * 0.17, min(W, H) * 0.165
+    max_depth = 4
+    angle = -math.pi / 2
+    pdf.set_line_width(0.4)
+    def draw(node, a0, a1, r, color, depth):
+        am = (a0 + a1) / 2
+        x = cx + r * math.cos(am)
+        y = cy + r * math.sin(am)
+        size = 8.5 if depth == 1 else (7.5 if depth == 2 else 6.5)
+        max_w = 56 if depth == 1 else (48 if depth == 2 else 40)
+        lines = _wrap_text(pdf, node["label"], max_w - 6, size)
+        bw = max(pdf.get_string_width(l) for l in lines) + 7 if lines else 7
+        pdf.set_font("DejaVu", "B", size)
+        bw = max(pdf.get_string_width(l) for l in lines) + 7
+        bh = len(lines) * (size * 0.62) + 5
+        fill = color if depth == 1 else _shade(color, 0.55 if depth == 2 else 0.78)
+        txt = (255, 255, 255) if depth == 1 else INK
+        pdf.set_fill_color(*fill)
+        pdf.set_draw_color(*_shade(color, -0.15) if depth == 1 else color)
+        pdf.rect(x - bw / 2, y - bh / 2, bw, bh, style="DF")
+        pdf.set_text_color(*txt)
+        pdf.set_xy(x - bw / 2 + 3.5, y - bh / 2 + 2.5)
+        for l in lines:
+            pdf.cell(bw - 7, size * 0.62, l, new_x="LMARGIN", new_y="NEXT")
+        pdf.set_text_color(*INK)
+        return (x, y, bw / 2, bh / 2)
+    def place(node, a0, a1, r, color, depth, parent_pos):
+        x, y, hw, hh = draw(node, a0, a1, r, color, depth)
+        if parent_pos:
+            px, py, phw, phh = parent_pos
+            pdf.set_draw_color(*color)
+            pdf.set_line_width(1.1 if depth == 1 else 0.7)
+            pdf.line(px + (hw if x > px else -hw if x < px else 0), py + (hh if y > py else -hh if y < py else 0), x, y)
+        if not node["children"] or depth >= max_depth:
+            return
+        kids = node["children"]
+        tot = sum(_weight(k) for k in kids) or 1
+        a = a0
+        for k in kids:
+            frac = _weight(k) / tot
+            pad = (a1 - a0) * frac * 0.08
+            place(k, a + pad, a + (a1 - a0) * frac - pad, r + dr, _shade(color, 0.25) if depth >= 1 else color, depth + 1, (x, y, hw, hh))
+            a += (a1 - a0) * frac
+    # racine centrale
+    pdf.set_fill_color(*BLUE)
+    pdf.set_draw_color(*BLUE_MED)
+    pdf.set_line_width(1.2)
+    rlab = _wrap_text(pdf, tree["label"], 60, 10.5)
+    pdf.set_font("DejaVu", "B", 10.5)
+    rw = max(pdf.get_string_width(l) for l in rlab) + 12
+    rh = len(rlab) * 6.5 + 8
+    pdf.rect(cx - rw / 2, cy - rh / 2, rw, rh, style="DF")
+    pdf.set_text_color(255, 255, 255)
+    pdf.set_xy(cx - rw / 2 + 6, cy - rh / 2 + 4)
+    for l in rlab:
+        pdf.cell(rw - 12, 6.5, l, new_x="LMARGIN", new_y="NEXT")
+    pdf.set_text_color(*INK)
+    span = 2 * math.pi
+    a = -math.pi / 2
+    for i, b in enumerate(branches):
+        frac = _weight(b) / total
+        color = PALETTE[i % len(PALETTE)]
+        pad = span * frac * 0.05
+        place(b, a + pad, a + span * frac - pad, r0, color, 1, (cx, cy, rw / 2, rh / 2))
+        a += span * frac
+    pdf.set_y(H - 6)
+
+
 def build_pdf(md_path, out_path):
     with open(md_path, encoding="utf-8") as f:
         raw = f.read()
@@ -368,6 +501,14 @@ def build_pdf(md_path, out_path):
             continue
         if t == "fence" and "schema" in tok.info:
             render_schema(pdf, tok.content)
+            i += 1
+            continue
+        if t == "fence" and "mindmap" in tok.info:
+            if pdf.page_no() == 0 or getattr(pdf, "_land", False) is False:
+                pass
+            pdf.add_page(orientation="L")
+            render_mindmap(pdf, tok.content)
+            pdf.ln(2)
             i += 1
             continue
         if t == "fence" and any(k in tok.info for k in BLOCK_STYLES):
